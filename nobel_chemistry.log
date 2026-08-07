@@ -1,0 +1,3303 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Homebrew) (preloaded format=pdflatex 2026.3.4)  7 AUG 2026 16:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**nobel_chemistry.tex
+(./nobel_chemistry.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/inputenc
+.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/base/fontenc.
+sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/babel/babel
+.sty
+Package: babel 2026/02/14 v26.3 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
+\babel@savecnt=\count284
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2111.
+\U@D=\dimen149
+\l@unhyphenated=\language91
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/babel/txtba
+bel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count285
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/babel/local
+e/en/babel-english.tex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4330.
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/babel-engli
+sh/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 108.
+))
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/hype
+rref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/iftex/iftex
+.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/graphics/keyv
+al.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/kvsetkeys/kvs
+etkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/kvdefinekey
+s/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/pdfescape/p
+dfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/ltxcmds/ltx
+cmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/pdftexcmds/
+pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/infwarerr/i
+nfwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hycolor/hycol
+or.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/name
+ref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/refcount/refc
+ount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/gettitlestr
+ing/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/kvoptions/kvo
+ptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count286
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/etoolbox/etoo
+lbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count287
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/stringenc/s
+tringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen150
+\Hy@linkcounter=\count288
+\Hy@pagecounter=\count289
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/pd1e
+nc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/intcalc/int
+calc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count290
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/puen
+c.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count291
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen151
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/bitset/bits
+et.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/bigintcalc/
+bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count292
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count293
+\c@Item=\count294
+\c@Hfootnote=\count295
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/hyperref/hpdf
+tex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/rerunfilechec
+k/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/uniquecount
+er/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip51
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/geometry/geom
+etry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/generic/iftex/ifvte
+x.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks20
+)
+(/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/tex/latex/l3backend/l3b
+ackend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count301
+) (./nobel_chemistry.aux (./chapters/chapter_1901.aux)
+(./chapters/chapter_1902.aux) (./chapters/chapter_1903.aux)
+(./chapters/chapter_1904.aux) (./chapters/chapter_1905.aux)
+(./chapters/chapter_1906.aux) (./chapters/chapter_1907.aux)
+(./chapters/chapter_1908.aux) (./chapters/chapter_1909.aux)
+(./chapters/chapter_1910.aux) (./chapters/chapter_1911.aux)
+(./chapters/chapter_1912.aux) (./chapters/chapter_1913.aux)
+(./chapters/chapter_1914.aux) (./chapters/chapter_1915.aux)
+(./chapters/chapter_1916.aux) (./chapters/chapter_1917.aux)
+(./chapters/chapter_1918.aux) (./chapters/chapter_1919.aux)
+(./chapters/chapter_1920.aux) (./chapters/chapter_1921.aux)
+(./chapters/chapter_1922.aux) (./chapters/chapter_1923.aux)
+(./chapters/chapter_1924.aux) (./chapters/chapter_1925.aux)
+(./chapters/chapter_1926.aux) (./chapters/chapter_1927.aux)
+(./chapters/chapter_1928.aux) (./chapters/chapter_1929.aux)
+(./chapters/chapter_1930.aux) (./chapters/chapter_1931.aux)
+(./chapters/chapter_1932.aux) (./chapters/chapter_1933.aux)
+(./chapters/chapter_1934.aux) (./chapters/chapter_1935.aux)
+(./chapters/chapter_1936.aux) (./chapters/chapter_1937.aux)
+(./chapters/chapter_1938.aux) (./chapters/chapter_1939.aux)
+(./chapters/chapter_1940.aux) (./chapters/chapter_1941.aux)
+(./chapters/chapter_1942.aux) (./chapters/chapter_1943.aux)
+(./chapters/chapter_1944.aux) (./chapters/chapter_1945.aux)
+(./chapters/chapter_1946.aux) (./chapters/chapter_1947.aux)
+(./chapters/chapter_1948.aux) (./chapters/chapter_1949.aux)
+(./chapters/chapter_1950.aux) (./chapters/chapter_1951.aux)
+(./chapters/chapter_1952.aux) (./chapters/chapter_1953.aux)
+(./chapters/chapter_1954.aux) (./chapters/chapter_1955.aux)
+(./chapters/chapter_1956.aux) (./chapters/chapter_1957.aux)
+(./chapters/chapter_1958.aux) (./chapters/chapter_1959.aux)
+(./chapters/chapter_1960.aux) (./chapters/chapter_1961.aux)
+(./chapters/chapter_1962.aux) (./chapters/chapter_1963.aux)
+(./chapters/chapter_1964.aux) (./chapters/chapter_1965.aux)
+(./chapters/chapter_1966.aux) (./chapters/chapter_1967.aux)
+(./chapters/chapter_1968.aux) (./chapters/chapter_1969.aux)
+(./chapters/chapter_1970.aux) (./chapters/chapter_1971.aux)
+(./chapters/chapter_1972.aux) (./chapters/chapter_1973.aux)
+(./chapters/chapter_1974.aux) (./chapters/chapter_1975.aux)
+(./chapters/chapter_1976.aux) (./chapters/chapter_1977.aux)
+(./chapters/chapter_1978.aux) (./chapters/chapter_1979.aux)
+(./chapters/chapter_1980.aux) (./chapters/chapter_1981.aux)
+(./chapters/chapter_1982.aux) (./chapters/chapter_1983.aux)
+(./chapters/chapter_1984.aux) (./chapters/chapter_1985.aux)
+(./chapters/chapter_1986.aux) (./chapters/chapter_1987.aux)
+(./chapters/chapter_1988.aux) (./chapters/chapter_1989.aux)
+(./chapters/chapter_1990.aux) (./chapters/chapter_1991.aux)
+(./chapters/chapter_1992.aux) (./chapters/chapter_1993.aux)
+(./chapters/chapter_1994.aux) (./chapters/chapter_1995.aux)
+(./chapters/chapter_1996.aux) (./chapters/chapter_1997.aux)
+(./chapters/chapter_1998.aux) (./chapters/chapter_1999.aux)
+(./chapters/chapter_2000.aux) (./chapters/chapter_2001.aux)
+(./chapters/chapter_2002.aux) (./chapters/chapter_2003.aux)
+(./chapters/chapter_2004.aux) (./chapters/chapter_2005.aux)
+(./chapters/chapter_2006.aux) (./chapters/chapter_2007.aux)
+(./chapters/chapter_2008.aux) (./chapters/chapter_2009.aux)
+(./chapters/chapter_2010.aux) (./chapters/chapter_2011.aux)
+(./chapters/chapter_2012.aux) (./chapters/chapter_2013.aux)
+(./chapters/chapter_2014.aux) (./chapters/chapter_2015.aux)
+(./chapters/chapter_2016.aux) (./chapters/chapter_2017.aux)
+(./chapters/chapter_2018.aux) (./chapters/chapter_2019.aux)
+(./chapters/chapter_2020.aux) (./chapters/chapter_2021.aux)
+(./chapters/chapter_2022.aux) (./chapters/chapter_2023.aux)
+(./chapters/chapter_2024.aux) (./chapters/chapter_2025.aux))
+\openout1 = `nobel_chemistry.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+Package hyperref Info: Link coloring OFF on input line 13.
+
+(./nobel_chemistry.out) (./nobel_chemistry.out)
+\@outlinefile=\write3
+\openout3 = `nobel_chemistry.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-30.06749pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+[1
+
+
+{/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/map/pdftex/updmap
+/pdftex.map}{/opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/enc/d
+vips/cm-super/cm-super-t1.enc}] [2
+
+] (./nobel_chemistry.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+ [3] [4] [5]
+[6] [7] [8]
+Overfull \hbox (2.24945pt too wide) detected at line 233
+\T1/cmr/bx/n/10 100 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 237
+\T1/cmr/bx/n/10 101 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 241
+\T1/cmr/bx/n/10 102 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 245
+\T1/cmr/bx/n/10 103 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 248
+\T1/cmr/bx/n/10 104 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 252
+\T1/cmr/bx/n/10 105 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 256
+\T1/cmr/bx/n/10 106 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 258
+\T1/cmr/bx/n/10 107 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 260
+\T1/cmr/bx/n/10 108 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 264
+\T1/cmr/bx/n/10 109 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 268
+\T1/cmr/bx/n/10 110 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 272
+\T1/cmr/bx/n/10 111 
+ []
+
+[9]
+Overfull \hbox (2.24945pt too wide) detected at line 274
+\T1/cmr/bx/n/10 112 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 277
+\T1/cmr/bx/n/10 113 
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 281
+\T1/cmr/bx/n/10 114 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 283
+ \T1/cmr/m/n/10 1004
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 284
+ \T1/cmr/m/n/10 1009
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 285
+\T1/cmr/bx/n/10 115 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 286
+ \T1/cmr/m/n/10 1015
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 287
+ \T1/cmr/m/n/10 1020
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 288
+ \T1/cmr/m/n/10 1025
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 289
+\T1/cmr/bx/n/10 116 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 290
+ \T1/cmr/m/n/10 1031
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 291
+ \T1/cmr/m/n/10 1036
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 292
+ \T1/cmr/m/n/10 1041
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 293
+\T1/cmr/bx/n/10 117 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 294
+ \T1/cmr/m/n/10 1047
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 295
+ \T1/cmr/m/n/10 1052
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 296
+ \T1/cmr/m/n/10 1057
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 297
+\T1/cmr/bx/n/10 118 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 298
+ \T1/cmr/m/n/10 1063
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 299
+ \T1/cmr/m/n/10 1068
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 300
+ \T1/cmr/m/n/10 1073
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 301
+\T1/cmr/bx/n/10 119 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 302
+ \T1/cmr/m/n/10 1079
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 303
+ \T1/cmr/m/n/10 1084
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 304
+ \T1/cmr/m/n/10 1089
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 305
+\T1/cmr/bx/n/10 120 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 306
+ \T1/cmr/m/n/10 1095
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 307
+ \T1/cmr/m/n/10 1100
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 308
+\T1/cmr/bx/n/10 121 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 309
+ \T1/cmr/m/n/10 1107
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 310
+ \T1/cmr/m/n/10 1112
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 311
+\T1/cmr/bx/n/10 122 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 312
+ \T1/cmr/m/n/10 1119
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 313
+ \T1/cmr/m/n/10 1124
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 314
+ \T1/cmr/m/n/10 1129
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 315
+\T1/cmr/bx/n/10 123 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 316
+ \T1/cmr/m/n/10 1135
+ []
+
+[10]
+Overfull \hbox (4.49889pt too wide) detected at line 317
+ \T1/cmr/m/n/10 1140
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 318
+ \T1/cmr/m/n/10 1145
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 319
+\T1/cmr/bx/n/10 124 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 320
+ \T1/cmr/m/n/10 1151
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 321
+ \T1/cmr/m/n/10 1156
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 322
+ \T1/cmr/m/n/10 1161
+ []
+
+
+Overfull \hbox (2.24945pt too wide) detected at line 323
+\T1/cmr/bx/n/10 125 
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 324
+ \T1/cmr/m/n/10 1167
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 325
+ \T1/cmr/m/n/10 1172
+ []
+
+
+Overfull \hbox (4.49889pt too wide) detected at line 326
+ \T1/cmr/m/n/10 1177
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `nobel_chemistry.toc'.
+
+ [11] [12
+
+] [13]
+\openout2 = `chapters/chapter_1901.aux'.
+
+ (./chapters/chapter_1901.tex [14
+
+
+]
+Chapter 1.
+[15] [16] [17] [18] [19] [20]) [21
+
+]
+\openout2 = `chapters/chapter_1902.aux'.
+
+ (./chapters/chapter_1902.tex [22
+
+
+
+
+]
+Chapter 2.
+[23] [24] [25]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [26]
+[27]) [28
+
+]
+\openout2 = `chapters/chapter_1903.aux'.
+
+ (./chapters/chapter_1903.tex
+Chapter 3.
+[29
+
+
+
+
+] [30] [31] [32] [33]) [34
+
+]
+\openout2 = `chapters/chapter_1904.aux'.
+
+ (./chapters/chapter_1904.tex
+Chapter 4.
+[35
+
+
+
+
+] [36] [37] [38] [39]) [40
+
+]
+\openout2 = `chapters/chapter_1905.aux'.
+
+ (./chapters/chapter_1905.tex
+Chapter 5.
+[41
+
+
+
+
+] [42] [43] [44] [45]) [46
+
+]
+\openout2 = `chapters/chapter_1906.aux'.
+
+ (./chapters/chapter_1906.tex
+Chapter 6.
+[47
+
+
+
+
+] [48] [49] [50] [51]) [52
+
+]
+\openout2 = `chapters/chapter_1907.aux'.
+
+ (./chapters/chapter_1907.tex
+Chapter 7.
+[53
+
+
+
+
+] [54] [55] [56] [57]) [58
+
+]
+\openout2 = `chapters/chapter_1908.aux'.
+
+ (./chapters/chapter_1908.tex
+Chapter 8.
+[59
+
+
+
+
+] [60] [61] [62] [63]) [64
+
+]
+\openout2 = `chapters/chapter_1909.aux'.
+
+ (./chapters/chapter_1909.tex
+Chapter 9.
+[65
+
+
+
+
+] [66] [67] [68] [69]) [70
+
+]
+\openout2 = `chapters/chapter_1910.aux'.
+
+ (./chapters/chapter_1910.tex
+Chapter 10.
+[71
+
+
+
+
+] [72] [73] [74] [75]) [76
+
+]
+\openout2 = `chapters/chapter_1911.aux'.
+
+ (./chapters/chapter_1911.tex
+Chapter 11.
+[77
+
+
+
+
+] [78] [79] [80] [81]) [82
+
+]
+\openout2 = `chapters/chapter_1912.aux'.
+
+ (./chapters/chapter_1912.tex
+Chapter 12.
+[83
+
+
+
+
+] [84] [85] [86] [87]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [88
+
+]
+[89] [90] [91] [92]) [93
+
+]
+\openout2 = `chapters/chapter_1913.aux'.
+
+ (./chapters/chapter_1913.tex [94
+
+
+
+
+]
+Chapter 13.
+[95] [96] [97] [98] [99]) [100
+
+]
+\openout2 = `chapters/chapter_1914.aux'.
+
+ (./chapters/chapter_1914.tex
+Chapter 14.
+[101
+
+
+
+
+] [102] [103] [104] [105]) [106
+
+]
+\openout2 = `chapters/chapter_1915.aux'.
+
+ (./chapters/chapter_1915.tex
+Chapter 15.
+[107
+
+
+
+
+] [108] [109] [110] [111]) [112
+
+]
+\openout2 = `chapters/chapter_1916.aux'.
+
+ (./chapters/chapter_1916.tex
+Chapter 16.
+) [113
+
+
+
+
+]
+\openout2 = `chapters/chapter_1917.aux'.
+
+ (./chapters/chapter_1917.tex [114
+
+
+
+
+]
+Chapter 17.
+) [115]
+\openout2 = `chapters/chapter_1918.aux'.
+
+ (./chapters/chapter_1918.tex [116
+
+
+
+
+]
+Chapter 18.
+[117] [118] [119] [120] [121]) [122
+
+]
+\openout2 = `chapters/chapter_1919.aux'.
+
+ (./chapters/chapter_1919.tex
+Chapter 19.
+) [123
+
+
+
+
+]
+\openout2 = `chapters/chapter_1920.aux'.
+
+ (./chapters/chapter_1920.tex [124
+
+
+
+
+]
+Chapter 20.
+[125] [126] [127] [128] [129]) [130
+
+]
+\openout2 = `chapters/chapter_1921.aux'.
+
+ (./chapters/chapter_1921.tex
+Chapter 21.
+[131
+
+
+
+
+] [132] [133] [134] [135]) [136
+
+]
+\openout2 = `chapters/chapter_1922.aux'.
+
+ (./chapters/chapter_1922.tex
+Chapter 22.
+[137
+
+
+
+
+] [138] [139] [140] [141]) [142
+
+]
+\openout2 = `chapters/chapter_1923.aux'.
+
+ (./chapters/chapter_1923.tex
+Chapter 23.
+[143
+
+
+
+
+] [144] [145] [146] [147]) [148
+
+]
+\openout2 = `chapters/chapter_1924.aux'.
+
+ (./chapters/chapter_1924.tex
+Chapter 24.
+) [149
+
+
+
+
+]
+\openout2 = `chapters/chapter_1925.aux'.
+
+ (./chapters/chapter_1925.tex [150
+
+
+
+
+]
+Chapter 25.
+[151] [152] [153] [154] [155]) [156
+
+]
+\openout2 = `chapters/chapter_1926.aux'.
+
+ (./chapters/chapter_1926.tex
+Chapter 26.
+[157
+
+
+
+
+] [158] [159] [160] [161]) [162
+
+]
+\openout2 = `chapters/chapter_1927.aux'.
+
+ (./chapters/chapter_1927.tex
+Chapter 27.
+[163
+
+
+
+
+] [164] [165]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [166]
+[167]) [168
+
+]
+\openout2 = `chapters/chapter_1928.aux'.
+
+ (./chapters/chapter_1928.tex
+Chapter 28.
+[169
+
+
+
+
+] [170] [171] [172] [173]) [174
+
+]
+\openout2 = `chapters/chapter_1929.aux'.
+
+ (./chapters/chapter_1929.tex
+Chapter 29.
+[175
+
+
+
+
+] [176] [177] [178] [179]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [180
+
+]
+[181] [182] [183] [184]) [185
+
+]
+\openout2 = `chapters/chapter_1930.aux'.
+
+ (./chapters/chapter_1930.tex [186
+
+
+
+
+]
+Chapter 30.
+[187] [188] [189]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [190]
+[191]) [192
+
+]
+\openout2 = `chapters/chapter_1931.aux'.
+
+ (./chapters/chapter_1931.tex
+Chapter 31.
+[193
+
+
+
+
+] [194] [195]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [196]
+[197]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [198
+
+]
+[199] [200] [201] [202]) [203
+
+]
+\openout2 = `chapters/chapter_1932.aux'.
+
+ (./chapters/chapter_1932.tex [204
+
+
+
+
+]
+Chapter 32.
+[205] [206] [207] [208] [209]) [210
+
+]
+\openout2 = `chapters/chapter_1933.aux'.
+
+ (./chapters/chapter_1933.tex
+Chapter 33.
+) [211
+
+
+
+
+]
+\openout2 = `chapters/chapter_1934.aux'.
+
+ (./chapters/chapter_1934.tex [212
+
+
+
+
+]
+Chapter 34.
+[213] [214] [215] [216] [217]) [218
+
+]
+\openout2 = `chapters/chapter_1935.aux'.
+
+ (./chapters/chapter_1935.tex
+Chapter 35.
+[219
+
+
+
+
+] [220] [221]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [222]
+[223]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [224
+
+]
+[225] [226] [227] [228]) [229
+
+]
+\openout2 = `chapters/chapter_1936.aux'.
+
+ (./chapters/chapter_1936.tex [230
+
+
+
+
+]
+Chapter 36.
+[231] [232] [233] [234] [235]) [236
+
+]
+\openout2 = `chapters/chapter_1937.aux'.
+
+ (./chapters/chapter_1937.tex
+Chapter 37.
+[237
+
+
+
+
+] [238] [239] [240] [241]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [242
+
+]
+[243] [244] [245] [246]) [247
+
+]
+\openout2 = `chapters/chapter_1938.aux'.
+
+ (./chapters/chapter_1938.tex [248
+
+
+
+
+]
+Chapter 38.
+[249] [250] [251] [252] [253]) [254
+
+]
+\openout2 = `chapters/chapter_1939.aux'.
+
+ (./chapters/chapter_1939.tex
+Chapter 39.
+[255
+
+
+
+
+] [256] [257]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [258]
+[259]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [260
+
+]
+[261] [262] [263] [264]) [265
+
+]
+\openout2 = `chapters/chapter_1940.aux'.
+
+ (./chapters/chapter_1940.tex [266
+
+
+
+
+]
+Chapter 40.
+) [267]
+\openout2 = `chapters/chapter_1941.aux'.
+
+ (./chapters/chapter_1941.tex [268
+
+
+
+
+]
+Chapter 41.
+) [269]
+\openout2 = `chapters/chapter_1942.aux'.
+
+ (./chapters/chapter_1942.tex [270
+
+
+
+
+]
+Chapter 42.
+) [271]
+\openout2 = `chapters/chapter_1943.aux'.
+
+ (./chapters/chapter_1943.tex [272
+
+
+
+
+]
+Chapter 43.
+[273] [274] [275] [276] [277]) [278
+
+]
+\openout2 = `chapters/chapter_1944.aux'.
+
+ (./chapters/chapter_1944.tex
+Chapter 44.
+[279
+
+
+
+
+] [280] [281] [282] [283]) [284
+
+]
+\openout2 = `chapters/chapter_1945.aux'.
+
+ (./chapters/chapter_1945.tex
+Chapter 45.
+[285
+
+
+
+
+] [286] [287]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [288]
+[289]) [290
+
+]
+\openout2 = `chapters/chapter_1946.aux'.
+
+ (./chapters/chapter_1946.tex
+Chapter 46.
+[291
+
+
+
+
+]
+Overfull \hbox (2.39052pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 292 \T1/cmr/m/sl/10 CHAPTER 46.  1946:JAMES B. SUMNER AND JOHN H
+. NORTHROP AND WENDELL M. STANLEY
+ []
+
+[292] [293]
+Overfull \hbox (2.39052pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 294 \T1/cmr/m/sl/10 CHAPTER 46.  1946:JAMES B. SUMNER AND JOHN H
+. NORTHROP AND WENDELL M. STANLEY
+ []
+
+[294] [295]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Overfull \hbox (2.39052pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 296 \T1/cmr/m/sl/10 CHAPTER 46.  1946:JAMES B. SUMNER AND JOHN H
+. NORTHROP AND WENDELL M. STANLEY
+ []
+
+[296
+
+] [297]
+Overfull \hbox (2.39052pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 298 \T1/cmr/m/sl/10 CHAPTER 46.  1946:JAMES B. SUMNER AND JOHN H
+. NORTHROP AND WENDELL M. STANLEY
+ []
+
+[298] [299]
+Overfull \hbox (2.39052pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 300 \T1/cmr/m/sl/10 CHAPTER 46.  1946:JAMES B. SUMNER AND JOHN H
+. NORTHROP AND WENDELL M. STANLEY
+ []
+
+[300]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [301
+
+]
+Overfull \hbox (2.39052pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 302 \T1/cmr/m/sl/10 CHAPTER 46.  1946:JAMES B. SUMNER AND JOHN H
+. NORTHROP AND WENDELL M. STANLEY
+ []
+
+[302] [303]
+Overfull \hbox (2.39052pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 304 \T1/cmr/m/sl/10 CHAPTER 46.  1946:JAMES B. SUMNER AND JOHN H
+. NORTHROP AND WENDELL M. STANLEY
+ []
+
+[304] [305])
+Overfull \hbox (2.39052pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 306 \T1/cmr/m/sl/10 CHAPTER 46.  1946:JAMES B. SUMNER AND JOHN H
+. NORTHROP AND WENDELL M. STANLEY
+ []
+
+[306
+
+]
+\openout2 = `chapters/chapter_1947.aux'.
+
+ (./chapters/chapter_1947.tex
+Chapter 47.
+[307
+
+
+
+
+] [308] [309] [310] [311]) [312
+
+]
+\openout2 = `chapters/chapter_1948.aux'.
+
+ (./chapters/chapter_1948.tex
+Chapter 48.
+[313
+
+
+
+
+] [314] [315] [316] [317]) [318
+
+]
+\openout2 = `chapters/chapter_1949.aux'.
+
+ (./chapters/chapter_1949.tex
+Chapter 49.
+[319
+
+
+
+
+] [320] [321] [322] [323]) [324
+
+]
+\openout2 = `chapters/chapter_1950.aux'.
+
+ (./chapters/chapter_1950.tex
+Chapter 50.
+[325
+
+
+
+
+] [326] [327] [328] [329]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [330
+
+]
+[331] [332] [333] [334]) [335
+
+]
+\openout2 = `chapters/chapter_1951.aux'.
+
+ (./chapters/chapter_1951.tex [336
+
+
+
+
+]
+Chapter 51.
+[337] [338] [339] [340] [341]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [342
+
+]
+[343] [344] [345] [346]) [347
+
+]
+\openout2 = `chapters/chapter_1952.aux'.
+
+ (./chapters/chapter_1952.tex [348
+
+
+
+
+]
+Chapter 52.
+[349] [350] [351] [352] [353]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [354
+
+]
+[355] [356] [357] [358]) [359
+
+]
+\openout2 = `chapters/chapter_1953.aux'.
+
+ (./chapters/chapter_1953.tex [360
+
+
+
+
+]
+Chapter 53.
+[361] [362] [363] [364] [365]) [366
+
+]
+\openout2 = `chapters/chapter_1954.aux'.
+
+ (./chapters/chapter_1954.tex
+Chapter 54.
+[367
+
+
+
+
+] [368] [369] [370] [371]) [372
+
+]
+\openout2 = `chapters/chapter_1955.aux'.
+
+ (./chapters/chapter_1955.tex
+Chapter 55.
+[373
+
+
+
+
+] [374] [375] [376] [377]) [378
+
+]
+\openout2 = `chapters/chapter_1956.aux'.
+
+ (./chapters/chapter_1956.tex
+Chapter 56.
+[379
+
+
+
+
+] [380] [381] [382] [383]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [384
+
+]
+[385] [386] [387] [388]) [389
+
+]
+\openout2 = `chapters/chapter_1957.aux'.
+
+ (./chapters/chapter_1957.tex [390
+
+
+
+
+]
+Chapter 57.
+[391] [392] [393] [394] [395]) [396
+
+]
+\openout2 = `chapters/chapter_1958.aux'.
+
+ (./chapters/chapter_1958.tex
+Chapter 58.
+[397
+
+
+
+
+] [398] [399] [400] [401]) [402
+
+]
+\openout2 = `chapters/chapter_1959.aux'.
+
+ (./chapters/chapter_1959.tex
+Chapter 59.
+[403
+
+
+
+
+] [404] [405] [406] [407]) [408
+
+]
+\openout2 = `chapters/chapter_1960.aux'.
+
+ (./chapters/chapter_1960.tex
+Chapter 60.
+[409
+
+
+
+
+] [410] [411] [412] [413]) [414
+
+]
+\openout2 = `chapters/chapter_1961.aux'.
+
+ (./chapters/chapter_1961.tex
+Chapter 61.
+[415
+
+
+
+
+] [416] [417] [418] [419]) [420
+
+]
+\openout2 = `chapters/chapter_1962.aux'.
+
+ (./chapters/chapter_1962.tex
+Chapter 62.
+[421
+
+
+
+
+] [422] [423]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [424]
+[425]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [426
+
+]
+[427] [428] [429] [430]) [431
+
+]
+\openout2 = `chapters/chapter_1963.aux'.
+
+ (./chapters/chapter_1963.tex [432
+
+
+
+
+]
+Chapter 63.
+[433] [434] [435]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [436]
+[437]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [438
+
+]
+[439] [440] [441] [442]) [443
+
+]
+\openout2 = `chapters/chapter_1964.aux'.
+
+ (./chapters/chapter_1964.tex [444
+
+
+
+
+]
+Chapter 64.
+[445] [446] [447] [448] [449] [450]) [451
+
+]
+\openout2 = `chapters/chapter_1965.aux'.
+
+ (./chapters/chapter_1965.tex
+[452
+
+
+
+
+]
+Chapter 65.
+[453] [454] [455] [456] [457]) [458
+
+]
+\openout2 = `chapters/chapter_1966.aux'.
+
+ (./chapters/chapter_1966.tex
+Chapter 66.
+[459
+
+
+
+
+] [460] [461] [462] [463]) [464
+
+]
+\openout2 = `chapters/chapter_1967.aux'.
+
+ (./chapters/chapter_1967.tex
+Chapter 67.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [465
+
+
+
+
+]
+[466] [467] [468] [469] [470]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [471
+
+]
+[472] [473] [474] [475]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [476
+
+]
+[477] [478] [479] [480]) [481
+
+]
+\openout2 = `chapters/chapter_1968.aux'.
+
+ (./chapters/chapter_1968.tex [482
+
+
+
+
+]
+Chapter 68.
+[483] [484] [485] [486] [487]) [488
+
+]
+\openout2 = `chapters/chapter_1969.aux'.
+
+ (./chapters/chapter_1969.tex
+Chapter 69.
+[489
+
+
+
+
+] [490] [491]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [492]
+[493]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [494
+
+]
+[495] [496] [497] [498]) [499
+
+]
+\openout2 = `chapters/chapter_1970.aux'.
+
+ (./chapters/chapter_1970.tex [500
+
+
+
+
+]
+Chapter 70.
+[501] [502] [503]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [504]
+[505]) [506
+
+]
+\openout2 = `chapters/chapter_1971.aux'.
+
+ (./chapters/chapter_1971.tex
+Chapter 71.
+[507
+
+
+
+
+] [508] [509] [510] [511]) [512
+
+]
+\openout2 = `chapters/chapter_1972.aux'.
+
+ (./chapters/chapter_1972.tex
+Chapter 72.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [513
+
+
+
+
+]
+[514] [515] [516] [517] [518]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [519
+
+]
+[520] [521] [522] [523]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [524
+
+]
+[525] [526] [527] [528]) [529
+
+]
+\openout2 = `chapters/chapter_1973.aux'.
+
+ (./chapters/chapter_1973.tex [530
+
+
+
+
+]
+Chapter 73.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [531]
+[532] [533] [534] [535] [536]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [537
+
+]
+[538] [539] [540] [541]) [542
+
+]
+\openout2 = `chapters/chapter_1974.aux'.
+
+ (./chapters/chapter_1974.tex
+Chapter 74.
+[543
+
+
+
+
+] [544] [545] [546] [547]) [548
+
+]
+\openout2 = `chapters/chapter_1975.aux'.
+
+ (./chapters/chapter_1975.tex
+Chapter 75.
+[549
+
+
+
+
+] [550] [551]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [552]
+[553]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [554
+
+]
+[555] [556] [557] [558]) [559
+
+]
+\openout2 = `chapters/chapter_1976.aux'.
+
+ (./chapters/chapter_1976.tex [560
+
+
+
+
+]
+Chapter 76.
+[561] [562] [563] [564] [565]) [566
+
+]
+\openout2 = `chapters/chapter_1977.aux'.
+
+ (./chapters/chapter_1977.tex
+Chapter 77.
+[567
+
+
+
+
+] [568] [569]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [570]
+[571]) [572
+
+]
+\openout2 = `chapters/chapter_1978.aux'.
+
+ (./chapters/chapter_1978.tex
+Chapter 78.
+[573
+
+
+
+
+] [574] [575] [576] [577]) [578
+
+]
+\openout2 = `chapters/chapter_1979.aux'.
+
+ (./chapters/chapter_1979.tex
+Chapter 79.
+[579
+
+
+
+
+] [580] [581] [582] [583]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [584
+
+]
+[585] [586] [587] [588]) [589
+
+]
+\openout2 = `chapters/chapter_1980.aux'.
+
+ (./chapters/chapter_1980.tex [590
+
+
+
+
+]
+Chapter 80.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [591]
+[592] [593] [594] [595]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [596
+
+]
+[597] [598] [599] [600]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [601
+
+]
+[602] [603] [604] [605]) [606
+
+]
+\openout2 = `chapters/chapter_1981.aux'.
+
+ (./chapters/chapter_1981.tex
+Chapter 81.
+[607
+
+
+
+
+] [608] [609]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [610]
+[611]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [612
+
+]
+[613] [614] [615] [616]) [617
+
+]
+\openout2 = `chapters/chapter_1982.aux'.
+
+ (./chapters/chapter_1982.tex [618
+
+
+
+
+]
+Chapter 82.
+[619] [620] [621] [622] [623]) [624
+
+]
+\openout2 = `chapters/chapter_1983.aux'.
+
+ (./chapters/chapter_1983.tex
+Chapter 83.
+[625
+
+
+
+
+] [626] [627]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [628]
+[629]) [630
+
+]
+\openout2 = `chapters/chapter_1984.aux'.
+
+ (./chapters/chapter_1984.tex
+Chapter 84.
+[631
+
+
+
+
+] [632] [633]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [634]
+[635]) [636
+
+]
+\openout2 = `chapters/chapter_1985.aux'.
+
+ (./chapters/chapter_1985.tex
+Chapter 85.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [637
+
+
+
+
+]
+[638] [639] [640] [641] [642]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [643
+
+]
+[644] [645] [646] [647]) [648
+
+]
+\openout2 = `chapters/chapter_1986.aux'.
+
+ (./chapters/chapter_1986.tex
+Chapter 86.
+[649
+
+
+
+
+] [650] [651] [652] [653]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [654
+
+]
+[655] [656] [657] [658]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [659
+
+]
+[660] [661] [662] [663]) [664
+
+]
+\openout2 = `chapters/chapter_1987.aux'.
+
+ (./chapters/chapter_1987.tex
+Chapter 87.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [665
+
+
+
+
+]
+[666] [667] [668] [669]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [670
+
+]
+[671] [672] [673] [674]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [675
+
+]
+[676] [677] [678] [679]) [680
+
+]
+\openout2 = `chapters/chapter_1988.aux'.
+
+ (./chapters/chapter_1988.tex
+Chapter 88.
+[681
+
+
+
+
+] [682] [683] [684] [685]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [686
+
+]
+[687] [688] [689] [690]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [691
+
+]
+[692] [693] [694] [695]) [696
+
+]
+\openout2 = `chapters/chapter_1989.aux'.
+
+ (./chapters/chapter_1989.tex
+Chapter 89.
+[697
+
+
+
+
+] [698] [699]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [700]
+[701]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [702
+
+]
+[703] [704] [705] [706]) [707
+
+]
+\openout2 = `chapters/chapter_1990.aux'.
+
+ (./chapters/chapter_1990.tex [708
+
+
+
+
+]
+Chapter 90.
+[709] [710] [711] [712] [713]) [714
+
+]
+\openout2 = `chapters/chapter_1991.aux'.
+
+ (./chapters/chapter_1991.tex
+Chapter 91.
+[715
+
+
+
+
+] [716] [717] [718] [719]) [720
+
+]
+\openout2 = `chapters/chapter_1992.aux'.
+
+ (./chapters/chapter_1992.tex
+Chapter 92.
+[721
+
+
+
+
+] [722] [723] [724] [725]) [726
+
+]
+\openout2 = `chapters/chapter_1993.aux'.
+
+ (./chapters/chapter_1993.tex
+Chapter 93.
+[727
+
+
+
+
+] [728] [729] [730] [731]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [732
+
+]
+[733] [734] [735] [736]) [737
+
+]
+\openout2 = `chapters/chapter_1994.aux'.
+
+ (./chapters/chapter_1994.tex [738
+
+
+
+
+]
+Chapter 94.
+[739] [740] [741] [742] [743]) [744
+
+]
+\openout2 = `chapters/chapter_1995.aux'.
+
+ (./chapters/chapter_1995.tex
+Chapter 95.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [745
+
+
+
+
+]
+[746] [747] [748] [749]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [750
+
+]
+[751] [752] [753] [754]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [755
+
+]
+[756] [757] [758] [759]) [760
+
+]
+\openout2 = `chapters/chapter_1996.aux'.
+
+ (./chapters/chapter_1996.tex
+Chapter 96.
+[761
+
+
+
+
+]
+Overfull \hbox (9.47102pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 762 \T1/cmr/m/sl/10 CHAPTER 96.  1996:ROBERT F. CURL JR. AND SIR
+ HAROLD KROTO AND RICHARD E. SMALLEY
+ []
+
+[762] [763]
+Overfull \hbox (9.47102pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 764 \T1/cmr/m/sl/10 CHAPTER 96.  1996:ROBERT F. CURL JR. AND SIR
+ HAROLD KROTO AND RICHARD E. SMALLEY
+ []
+
+[764] [765]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Overfull \hbox (9.47102pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 766 \T1/cmr/m/sl/10 CHAPTER 96.  1996:ROBERT F. CURL JR. AND SIR
+ HAROLD KROTO AND RICHARD E. SMALLEY
+ []
+
+[766
+
+] [767]
+Overfull \hbox (9.47102pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 768 \T1/cmr/m/sl/10 CHAPTER 96.  1996:ROBERT F. CURL JR. AND SIR
+ HAROLD KROTO AND RICHARD E. SMALLEY
+ []
+
+[768] [769]
+Overfull \hbox (9.47102pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 770 \T1/cmr/m/sl/10 CHAPTER 96.  1996:ROBERT F. CURL JR. AND SIR
+ HAROLD KROTO AND RICHARD E. SMALLEY
+ []
+
+[770]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [771
+
+]
+Overfull \hbox (9.47102pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 772 \T1/cmr/m/sl/10 CHAPTER 96.  1996:ROBERT F. CURL JR. AND SIR
+ HAROLD KROTO AND RICHARD E. SMALLEY
+ []
+
+[772] [773]
+Overfull \hbox (9.47102pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 774 \T1/cmr/m/sl/10 CHAPTER 96.  1996:ROBERT F. CURL JR. AND SIR
+ HAROLD KROTO AND RICHARD E. SMALLEY
+ []
+
+[774] [775])
+Overfull \hbox (9.47102pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 776 \T1/cmr/m/sl/10 CHAPTER 96.  1996:ROBERT F. CURL JR. AND SIR
+ HAROLD KROTO AND RICHARD E. SMALLEY
+ []
+
+[776
+
+]
+\openout2 = `chapters/chapter_1997.aux'.
+
+ (./chapters/chapter_1997.tex
+Chapter 97.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [777
+
+
+
+
+]
+[778] [779] [780] [781]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [782
+
+]
+[783] [784] [785] [786]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [787
+
+]
+[788] [789] [790] [791]) [792
+
+]
+\openout2 = `chapters/chapter_1998.aux'.
+
+ (./chapters/chapter_1998.tex
+Chapter 98.
+[793
+
+
+
+
+] [794] [795] [796] [797]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [798
+
+]
+[799] [800] [801] [802]) [803
+
+]
+\openout2 = `chapters/chapter_1999.aux'.
+
+ (./chapters/chapter_1999.tex [804
+
+
+
+
+]
+Chapter 99.
+[805] [806] [807]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [808]
+[809]) [810
+
+]
+\openout2 = `chapters/chapter_2000.aux'.
+
+ (./chapters/chapter_2000.tex
+Chapter 100.
+[811
+
+
+
+
+] [812] [813]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [814]
+[815]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [816
+
+]
+[817] [818] [819] [820]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [821
+
+]
+[822] [823] [824] [825]) [826
+
+]
+\openout2 = `chapters/chapter_2001.aux'.
+
+ (./chapters/chapter_2001.tex
+Chapter 101.
+[827
+
+
+
+
+] [828] [829]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [830]
+[831]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [832
+
+]
+[833] [834] [835] [836]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [837
+
+]
+[838] [839] [840] [841]) [842
+
+]
+\openout2 = `chapters/chapter_2002.aux'.
+
+ (./chapters/chapter_2002.tex
+Chapter 102.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [843
+
+
+
+
+]
+[844] [845] [846] [847]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [848
+
+]
+[849] [850] [851] [852]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [853
+
+]
+[854] [855] [856] [857]) [858
+
+]
+\openout2 = `chapters/chapter_2003.aux'.
+
+ (./chapters/chapter_2003.tex
+Chapter 103.
+[859
+
+
+
+
+] [860] [861]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [862]
+[863]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [864
+
+]
+[865] [866] [867] [868]) [869
+
+]
+\openout2 = `chapters/chapter_2004.aux'.
+
+ (./chapters/chapter_2004.tex [870
+
+
+
+
+]
+Chapter 104.
+[871] [872] [873] [874] [875]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [876
+
+]
+[877] [878] [879] [880]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [881
+
+]
+[882] [883] [884] [885]) [886
+
+]
+\openout2 = `chapters/chapter_2005.aux'.
+
+ (./chapters/chapter_2005.tex
+Chapter 105.
+[887
+
+
+
+
+] [888] [889] [890] [891]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [892
+
+]
+[893] [894] [895] [896]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [897
+
+]
+[898] [899] [900] [901]) [902
+
+]
+\openout2 = `chapters/chapter_2006.aux'.
+
+ (./chapters/chapter_2006.tex
+Chapter 106.
+[903
+
+
+
+
+] [904] [905] [906] [907]) [908
+
+]
+\openout2 = `chapters/chapter_2007.aux'.
+
+ (./chapters/chapter_2007.tex
+Chapter 107.
+[909
+
+
+
+
+] [910] [911] [912] [913]) [914
+
+]
+\openout2 = `chapters/chapter_2008.aux'.
+
+ (./chapters/chapter_2008.tex
+Chapter 108.
+[915
+
+
+
+
+] [916] [917] [918] [919]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [920
+
+]
+[921] [922] [923] [924]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [925
+
+]
+[926] [927] [928] [929]) [930
+
+]
+\openout2 = `chapters/chapter_2009.aux'.
+
+ (./chapters/chapter_2009.tex
+Chapter 109.
+[931
+
+
+
+
+]
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 932 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[932] [933]
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 934 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[934] [935]
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 936 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[936]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [937
+
+]
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 938 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[938] [939]
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 940 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[940] [941]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 942 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[942
+
+] [943]
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 944 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[944] [945]
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 946 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[946]) [947
+
+]
+\openout2 = `chapters/chapter_2010.aux'.
+
+ (./chapters/chapter_2010.tex
+Overfull \hbox (45.85213pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 948 \T1/cmr/m/sl/10 CHAPTER 109.  2009:VENKATRAMAN RAMAKRISHNAN 
+AND THOMAS A. STEITZ AND ADA E. YONATH
+ []
+
+[948
+
+
+
+
+]
+Chapter 110.
+[949] [950] [951]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [952]
+[953]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [954
+
+]
+[955] [956] [957] [958]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [959
+
+]
+[960] [961] [962] [963]) [964
+
+]
+\openout2 = `chapters/chapter_2011.aux'.
+
+ (./chapters/chapter_2011.tex
+Chapter 111.
+[965
+
+
+
+
+] [966] [967] [968] [969]) [970
+
+]
+\openout2 = `chapters/chapter_2012.aux'.
+
+ (./chapters/chapter_2012.tex
+Chapter 112.
+[971
+
+
+
+
+] [972] [973] [974] [975]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [976
+
+]
+[977] [978] [979] [980]) [981
+
+]
+\openout2 = `chapters/chapter_2013.aux'.
+
+ (./chapters/chapter_2013.tex [982
+
+
+
+
+]
+Chapter 113.
+[983] [984] [985] [986] [987]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [988
+
+]
+[989] [990] [991] [992]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [993
+
+]
+[994] [995] [996] [997]) [998
+
+]
+\openout2 = `chapters/chapter_2014.aux'.
+
+ (./chapters/chapter_2014.tex
+Chapter 114.
+[999
+
+
+
+
+] [1000] [1001]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [1002]
+[1003]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1004
+
+]
+[1005] [1006] [1007] [1008]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1009
+
+]
+[1010] [1011] [1012] [1013]) [1014
+
+]
+\openout2 = `chapters/chapter_2015.aux'.
+
+ (./chapters/chapter_2015.tex
+Chapter 115.
+[1015
+
+
+
+
+] [1016] [1017]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [1018]
+[1019]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1020
+
+]
+[1021] [1022] [1023] [1024]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1025
+
+]
+[1026] [1027] [1028] [1029]) [1030
+
+]
+\openout2 = `chapters/chapter_2016.aux'.
+
+ (./chapters/chapter_2016.tex
+Chapter 116.
+[1031
+
+
+
+
+]
+Overfull \hbox (64.4576pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1032 \T1/cmr/m/sl/10 CHAPTER 116.  2016:JEAN-PIERRE SAUVAGE AND 
+SIR J. FRASER STODDART AND BERNARD L. FERINGA
+ []
+
+[1032] [1033]
+Overfull \hbox (64.4576pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1034 \T1/cmr/m/sl/10 CHAPTER 116.  2016:JEAN-PIERRE SAUVAGE AND 
+SIR J. FRASER STODDART AND BERNARD L. FERINGA
+ []
+
+[1034] [1035]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Overfull \hbox (64.4576pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1036 \T1/cmr/m/sl/10 CHAPTER 116.  2016:JEAN-PIERRE SAUVAGE AND 
+SIR J. FRASER STODDART AND BERNARD L. FERINGA
+ []
+
+[1036
+
+] [1037]
+Overfull \hbox (64.4576pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1038 \T1/cmr/m/sl/10 CHAPTER 116.  2016:JEAN-PIERRE SAUVAGE AND 
+SIR J. FRASER STODDART AND BERNARD L. FERINGA
+ []
+
+[1038] [1039]
+Overfull \hbox (64.4576pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1040 \T1/cmr/m/sl/10 CHAPTER 116.  2016:JEAN-PIERRE SAUVAGE AND 
+SIR J. FRASER STODDART AND BERNARD L. FERINGA
+ []
+
+[1040]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1041
+
+]
+Overfull \hbox (64.4576pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1042 \T1/cmr/m/sl/10 CHAPTER 116.  2016:JEAN-PIERRE SAUVAGE AND 
+SIR J. FRASER STODDART AND BERNARD L. FERINGA
+ []
+
+[1042] [1043]
+Overfull \hbox (64.4576pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1044 \T1/cmr/m/sl/10 CHAPTER 116.  2016:JEAN-PIERRE SAUVAGE AND 
+SIR J. FRASER STODDART AND BERNARD L. FERINGA
+ []
+
+[1044] [1045])
+Overfull \hbox (64.4576pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1046 \T1/cmr/m/sl/10 CHAPTER 116.  2016:JEAN-PIERRE SAUVAGE AND 
+SIR J. FRASER STODDART AND BERNARD L. FERINGA
+ []
+
+[1046
+
+]
+\openout2 = `chapters/chapter_2017.aux'.
+
+ (./chapters/chapter_2017.tex
+Chapter 117.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [1047
+
+
+
+
+]
+Overfull \hbox (13.08235pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1048 \T1/cmr/m/sl/10 CHAPTER 117.  2017:JACQUES DUBOCHET AND JOA
+CHIM FRANK AND RICHARD HENDERSON
+ []
+
+[1048] [1049]
+Overfull \hbox (13.08235pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1050 \T1/cmr/m/sl/10 CHAPTER 117.  2017:JACQUES DUBOCHET AND JOA
+CHIM FRANK AND RICHARD HENDERSON
+ []
+
+[1050] [1051]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Overfull \hbox (13.08235pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1052 \T1/cmr/m/sl/10 CHAPTER 117.  2017:JACQUES DUBOCHET AND JOA
+CHIM FRANK AND RICHARD HENDERSON
+ []
+
+[1052
+
+] [1053]
+Overfull \hbox (13.08235pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1054 \T1/cmr/m/sl/10 CHAPTER 117.  2017:JACQUES DUBOCHET AND JOA
+CHIM FRANK AND RICHARD HENDERSON
+ []
+
+[1054] [1055]
+Overfull \hbox (13.08235pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1056 \T1/cmr/m/sl/10 CHAPTER 117.  2017:JACQUES DUBOCHET AND JOA
+CHIM FRANK AND RICHARD HENDERSON
+ []
+
+[1056]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1057
+
+]
+Overfull \hbox (13.08235pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1058 \T1/cmr/m/sl/10 CHAPTER 117.  2017:JACQUES DUBOCHET AND JOA
+CHIM FRANK AND RICHARD HENDERSON
+ []
+
+[1058] [1059]
+Overfull \hbox (13.08235pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1060 \T1/cmr/m/sl/10 CHAPTER 117.  2017:JACQUES DUBOCHET AND JOA
+CHIM FRANK AND RICHARD HENDERSON
+ []
+
+[1060] [1061])
+Overfull \hbox (13.08235pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1062 \T1/cmr/m/sl/10 CHAPTER 117.  2017:JACQUES DUBOCHET AND JOA
+CHIM FRANK AND RICHARD HENDERSON
+ []
+
+[1062
+
+]
+\openout2 = `chapters/chapter_2018.aux'.
+
+ (./chapters/chapter_2018.tex
+Chapter 118.
+[1063
+
+
+
+
+]
+Overfull \hbox (27.79988pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1064 \T1/cmr/m/sl/10 CHAPTER 118.  2018:FRANCES H. ARNOLD AND GE
+ORGE P. SMITH AND SIR GREGORY P. WINTER
+ []
+
+[1064] [1065]
+Overfull \hbox (27.79988pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1066 \T1/cmr/m/sl/10 CHAPTER 118.  2018:FRANCES H. ARNOLD AND GE
+ORGE P. SMITH AND SIR GREGORY P. WINTER
+ []
+
+[1066] [1067]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Overfull \hbox (27.79988pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1068 \T1/cmr/m/sl/10 CHAPTER 118.  2018:FRANCES H. ARNOLD AND GE
+ORGE P. SMITH AND SIR GREGORY P. WINTER
+ []
+
+[1068
+
+] [1069]
+Overfull \hbox (27.79988pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1070 \T1/cmr/m/sl/10 CHAPTER 118.  2018:FRANCES H. ARNOLD AND GE
+ORGE P. SMITH AND SIR GREGORY P. WINTER
+ []
+
+[1070] [1071]
+Overfull \hbox (27.79988pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1072 \T1/cmr/m/sl/10 CHAPTER 118.  2018:FRANCES H. ARNOLD AND GE
+ORGE P. SMITH AND SIR GREGORY P. WINTER
+ []
+
+[1072]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1073
+
+]
+Overfull \hbox (27.79988pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1074 \T1/cmr/m/sl/10 CHAPTER 118.  2018:FRANCES H. ARNOLD AND GE
+ORGE P. SMITH AND SIR GREGORY P. WINTER
+ []
+
+[1074] [1075]
+Overfull \hbox (27.79988pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1076 \T1/cmr/m/sl/10 CHAPTER 118.  2018:FRANCES H. ARNOLD AND GE
+ORGE P. SMITH AND SIR GREGORY P. WINTER
+ []
+
+[1076] [1077])
+Overfull \hbox (27.79988pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1078 \T1/cmr/m/sl/10 CHAPTER 118.  2018:FRANCES H. ARNOLD AND GE
+ORGE P. SMITH AND SIR GREGORY P. WINTER
+ []
+
+[1078
+
+]
+\openout2 = `chapters/chapter_2019.aux'.
+
+ (./chapters/chapter_2019.tex
+Chapter 119.
+[1079
+
+
+
+
+]
+Overfull \hbox (48.00438pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1080 \T1/cmr/m/sl/10 CHAPTER 119.  2019:JOHN B. GOODENOUGH AND M
+. STANLEY WHITTINGHAM AND AKIRA YOSHINO
+ []
+
+[1080] [1081]
+Overfull \hbox (48.00438pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1082 \T1/cmr/m/sl/10 CHAPTER 119.  2019:JOHN B. GOODENOUGH AND M
+. STANLEY WHITTINGHAM AND AKIRA YOSHINO
+ []
+
+[1082] [1083]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Overfull \hbox (48.00438pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1084 \T1/cmr/m/sl/10 CHAPTER 119.  2019:JOHN B. GOODENOUGH AND M
+. STANLEY WHITTINGHAM AND AKIRA YOSHINO
+ []
+
+[1084
+
+] [1085]
+Overfull \hbox (48.00438pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1086 \T1/cmr/m/sl/10 CHAPTER 119.  2019:JOHN B. GOODENOUGH AND M
+. STANLEY WHITTINGHAM AND AKIRA YOSHINO
+ []
+
+[1086] [1087]
+Overfull \hbox (48.00438pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1088 \T1/cmr/m/sl/10 CHAPTER 119.  2019:JOHN B. GOODENOUGH AND M
+. STANLEY WHITTINGHAM AND AKIRA YOSHINO
+ []
+
+[1088]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1089
+
+]
+Overfull \hbox (48.00438pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1090 \T1/cmr/m/sl/10 CHAPTER 119.  2019:JOHN B. GOODENOUGH AND M
+. STANLEY WHITTINGHAM AND AKIRA YOSHINO
+ []
+
+[1090] [1091]
+Overfull \hbox (48.00438pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1092 \T1/cmr/m/sl/10 CHAPTER 119.  2019:JOHN B. GOODENOUGH AND M
+. STANLEY WHITTINGHAM AND AKIRA YOSHINO
+ []
+
+[1092] [1093])
+Overfull \hbox (48.00438pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1094 \T1/cmr/m/sl/10 CHAPTER 119.  2019:JOHN B. GOODENOUGH AND M
+. STANLEY WHITTINGHAM AND AKIRA YOSHINO
+ []
+
+[1094
+
+]
+\openout2 = `chapters/chapter_2020.aux'.
+
+ (./chapters/chapter_2020.tex
+Chapter 120.
+[1095
+
+
+
+
+] [1096] [1097] [1098] [1099]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1100
+
+]
+[1101] [1102] [1103] [1104]) [1105
+
+]
+\openout2 = `chapters/chapter_2021.aux'.
+
+ (./chapters/chapter_2021.tex [1106
+
+
+
+
+]
+Chapter 121.
+[1107] [1108] [1109]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [1110]
+[1111]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1112
+
+]
+[1113] [1114] [1115] [1116]) [1117
+
+]
+\openout2 = `chapters/chapter_2022.aux'.
+
+ (./chapters/chapter_2022.tex [1118
+
+
+
+
+]
+Chapter 122.
+[1119]
+Overfull \hbox (7.667pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1120 \T1/cmr/m/sl/10 CHAPTER 122.  2022:CAROLYN BERTOZZI AND MOR
+TEN MELDAL AND K. BARRY SHARPLESS
+ []
+
+[1120] [1121]
+Overfull \hbox (7.667pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1122 \T1/cmr/m/sl/10 CHAPTER 122.  2022:CAROLYN BERTOZZI AND MOR
+TEN MELDAL AND K. BARRY SHARPLESS
+ []
+
+[1122] [1123]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Overfull \hbox (7.667pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1124 \T1/cmr/m/sl/10 CHAPTER 122.  2022:CAROLYN BERTOZZI AND MOR
+TEN MELDAL AND K. BARRY SHARPLESS
+ []
+
+[1124
+
+] [1125]
+Overfull \hbox (7.667pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1126 \T1/cmr/m/sl/10 CHAPTER 122.  2022:CAROLYN BERTOZZI AND MOR
+TEN MELDAL AND K. BARRY SHARPLESS
+ []
+
+[1126] [1127]
+Overfull \hbox (7.667pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1128 \T1/cmr/m/sl/10 CHAPTER 122.  2022:CAROLYN BERTOZZI AND MOR
+TEN MELDAL AND K. BARRY SHARPLESS
+ []
+
+[1128]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1129
+
+]
+Overfull \hbox (7.667pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1130 \T1/cmr/m/sl/10 CHAPTER 122.  2022:CAROLYN BERTOZZI AND MOR
+TEN MELDAL AND K. BARRY SHARPLESS
+ []
+
+[1130] [1131]
+Overfull \hbox (7.667pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1132 \T1/cmr/m/sl/10 CHAPTER 122.  2022:CAROLYN BERTOZZI AND MOR
+TEN MELDAL AND K. BARRY SHARPLESS
+ []
+
+[1132] [1133])
+Overfull \hbox (7.667pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10 1134 \T1/cmr/m/sl/10 CHAPTER 122.  2022:CAROLYN BERTOZZI AND MOR
+TEN MELDAL AND K. BARRY SHARPLESS
+ []
+
+[1134
+
+]
+\openout2 = `chapters/chapter_2023.aux'.
+
+ (./chapters/chapter_2023.tex
+Chapter 123.
+[1135
+
+
+
+
+] [1136] [1137]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [1138]
+[1139]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1140
+
+]
+[1141] [1142] [1143] [1144]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1145
+
+]
+[1146] [1147] [1148] [1149]) [1150
+
+]
+\openout2 = `chapters/chapter_2024.aux'.
+
+ (./chapters/chapter_2024.tex
+Chapter 124.
+[1151
+
+
+
+
+] [1152] [1153]
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [1154]
+[1155]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1156
+
+]
+[1157] [1158] [1159] [1160]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1161
+
+]
+[1162] [1163] [1164] [1165]) [1166
+
+]
+\openout2 = `chapters/chapter_2025.aux'.
+
+ (./chapters/chapter_2025.tex
+Chapter 125.
+[1167
+
+
+
+
+] [1168] [1169] [1170] [1171]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1172
+
+]
+[1173] [1174] [1175] [1176]
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+ [1177
+
+]
+[1178] [1179] [1180] [1181]) [1182
+
+] (./nobel_chemistry.aux
+(./chapters/chapter_1901.aux) (./chapters/chapter_1902.aux)
+(./chapters/chapter_1903.aux) (./chapters/chapter_1904.aux)
+(./chapters/chapter_1905.aux) (./chapters/chapter_1906.aux)
+(./chapters/chapter_1907.aux) (./chapters/chapter_1908.aux)
+(./chapters/chapter_1909.aux) (./chapters/chapter_1910.aux)
+(./chapters/chapter_1911.aux) (./chapters/chapter_1912.aux)
+(./chapters/chapter_1913.aux) (./chapters/chapter_1914.aux)
+(./chapters/chapter_1915.aux) (./chapters/chapter_1916.aux)
+(./chapters/chapter_1917.aux) (./chapters/chapter_1918.aux)
+(./chapters/chapter_1919.aux) (./chapters/chapter_1920.aux)
+(./chapters/chapter_1921.aux) (./chapters/chapter_1922.aux)
+(./chapters/chapter_1923.aux) (./chapters/chapter_1924.aux)
+(./chapters/chapter_1925.aux) (./chapters/chapter_1926.aux)
+(./chapters/chapter_1927.aux) (./chapters/chapter_1928.aux)
+(./chapters/chapter_1929.aux) (./chapters/chapter_1930.aux)
+(./chapters/chapter_1931.aux) (./chapters/chapter_1932.aux)
+(./chapters/chapter_1933.aux) (./chapters/chapter_1934.aux)
+(./chapters/chapter_1935.aux) (./chapters/chapter_1936.aux)
+(./chapters/chapter_1937.aux) (./chapters/chapter_1938.aux)
+(./chapters/chapter_1939.aux) (./chapters/chapter_1940.aux)
+(./chapters/chapter_1941.aux) (./chapters/chapter_1942.aux)
+(./chapters/chapter_1943.aux) (./chapters/chapter_1944.aux)
+(./chapters/chapter_1945.aux) (./chapters/chapter_1946.aux)
+(./chapters/chapter_1947.aux) (./chapters/chapter_1948.aux)
+(./chapters/chapter_1949.aux) (./chapters/chapter_1950.aux)
+(./chapters/chapter_1951.aux) (./chapters/chapter_1952.aux)
+(./chapters/chapter_1953.aux) (./chapters/chapter_1954.aux)
+(./chapters/chapter_1955.aux) (./chapters/chapter_1956.aux)
+(./chapters/chapter_1957.aux) (./chapters/chapter_1958.aux)
+(./chapters/chapter_1959.aux) (./chapters/chapter_1960.aux)
+(./chapters/chapter_1961.aux) (./chapters/chapter_1962.aux)
+(./chapters/chapter_1963.aux) (./chapters/chapter_1964.aux)
+(./chapters/chapter_1965.aux) (./chapters/chapter_1966.aux)
+(./chapters/chapter_1967.aux) (./chapters/chapter_1968.aux)
+(./chapters/chapter_1969.aux) (./chapters/chapter_1970.aux)
+(./chapters/chapter_1971.aux) (./chapters/chapter_1972.aux)
+(./chapters/chapter_1973.aux) (./chapters/chapter_1974.aux)
+(./chapters/chapter_1975.aux) (./chapters/chapter_1976.aux)
+(./chapters/chapter_1977.aux) (./chapters/chapter_1978.aux)
+(./chapters/chapter_1979.aux) (./chapters/chapter_1980.aux)
+(./chapters/chapter_1981.aux) (./chapters/chapter_1982.aux)
+(./chapters/chapter_1983.aux) (./chapters/chapter_1984.aux)
+(./chapters/chapter_1985.aux) (./chapters/chapter_1986.aux)
+(./chapters/chapter_1987.aux) (./chapters/chapter_1988.aux)
+(./chapters/chapter_1989.aux) (./chapters/chapter_1990.aux)
+(./chapters/chapter_1991.aux) (./chapters/chapter_1992.aux)
+(./chapters/chapter_1993.aux) (./chapters/chapter_1994.aux)
+(./chapters/chapter_1995.aux) (./chapters/chapter_1996.aux)
+(./chapters/chapter_1997.aux) (./chapters/chapter_1998.aux)
+(./chapters/chapter_1999.aux) (./chapters/chapter_2000.aux)
+(./chapters/chapter_2001.aux) (./chapters/chapter_2002.aux)
+(./chapters/chapter_2003.aux) (./chapters/chapter_2004.aux)
+(./chapters/chapter_2005.aux) (./chapters/chapter_2006.aux)
+(./chapters/chapter_2007.aux) (./chapters/chapter_2008.aux)
+(./chapters/chapter_2009.aux) (./chapters/chapter_2010.aux)
+(./chapters/chapter_2011.aux) (./chapters/chapter_2012.aux)
+(./chapters/chapter_2013.aux) (./chapters/chapter_2014.aux)
+(./chapters/chapter_2015.aux) (./chapters/chapter_2016.aux)
+(./chapters/chapter_2017.aux) (./chapters/chapter_2018.aux)
+(./chapters/chapter_2019.aux) (./chapters/chapter_2020.aux)
+(./chapters/chapter_2021.aux) (./chapters/chapter_2022.aux)
+(./chapters/chapter_2023.aux) (./chapters/chapter_2024.aux)
+(./chapters/chapter_2025.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+Package rerunfilecheck Info: File `nobel_chemistry.out' has not changed.
+(rerunfilecheck)             Checksum: 606E2D84B0844B05126AE3233D8A64B1;54775.
+ ) 
+Here is how much of TeX's memory you used:
+ 16596 strings out of 467525
+ 307377 string characters out of 5408440
+ 643799 words of memory out of 5000000
+ 40924 multiletter control sequences out of 15000+600000
+ 639762 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,6n,79p,977b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/type1/public/cm
+-super/sfbx1000.pfb></opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fon
+ts/type1/public/cm-super/sfbx1200.pfb></opt/homebrew/Cellar/texlive/20260301/sh
+are/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></opt/homebrew/Cellar/t
+exlive/20260301/share/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></opt
+/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/type1/public/cm-super/
+sfbx2488.pfb></opt/homebrew/Cellar/texlive/20260301/share/texmf-dist/fonts/type
+1/public/cm-super/sfrm1000.pfb></opt/homebrew/Cellar/texlive/20260301/share/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/
+20260301/share/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb>
+Output written on nobel_chemistry.pdf (1182 pages, 3434492 bytes).
+PDF statistics:
+ 9576 PDF objects out of 10688 (max. 8388607)
+ 8293 compressed objects within 83 object streams
+ 3635 named destinations out of 4296 (max. 500000)
+ 2601 words of extra memory for PDF output out of 10000 (max. 10000000)
+
