@@ -1,326 +1,326 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}1901:Jacobus H. van 't Hoff}{15}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Jacobus H. van 't Hoff}{15}{section.1.1}%
-\contentsline {chapter}{\numberline {2}1902:Emil Fischer}{23}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Emil Fischer}{23}{section.2.1}%
-\contentsline {chapter}{\numberline {3}1903:Svante Arrhenius}{29}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Svante Arrhenius}{29}{section.3.1}%
-\contentsline {chapter}{\numberline {4}1904:Sir William Ramsay}{35}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Sir William Ramsay}{35}{section.4.1}%
-\contentsline {chapter}{\numberline {5}1905:Adolf von Baeyer}{41}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Adolf von Baeyer}{41}{section.5.1}%
-\contentsline {chapter}{\numberline {6}1906:Henri Moissan}{47}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Henri Moissan}{47}{section.6.1}%
-\contentsline {chapter}{\numberline {7}1907:Eduard Buchner}{53}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Eduard Buchner}{53}{section.7.1}%
-\contentsline {chapter}{\numberline {8}1908:Ernest Rutherford}{59}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Ernest Rutherford}{59}{section.8.1}%
-\contentsline {chapter}{\numberline {9}1909:Wilhelm Ostwald}{65}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Wilhelm Ostwald}{65}{section.9.1}%
-\contentsline {chapter}{\numberline {10}1910:Otto Wallach}{71}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Otto Wallach}{71}{section.10.1}%
-\contentsline {chapter}{\numberline {11}1911:Marie Curie}{77}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Marie Curie}{77}{section.11.1}%
-\contentsline {chapter}{\numberline {12}1912:Victor Grignard and Paul Sabatier}{83}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Victor Grignard}{83}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Paul Sabatier}{88}{section.12.2}%
-\contentsline {chapter}{\numberline {13}1913:Alfred Werner}{95}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Alfred Werner}{95}{section.13.1}%
-\contentsline {chapter}{\numberline {14}1914:Theodore W. Richards}{101}{chapter.14}%
-\contentsline {section}{\numberline {14.1}Theodore W. Richards}{101}{section.14.1}%
-\contentsline {chapter}{\numberline {15}1915:Richard Willstätter}{107}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Richard Willstätter}{107}{section.15.1}%
-\contentsline {chapter}{\numberline {16}1916:Unknown}{113}{chapter.16}%
-\contentsline {chapter}{\numberline {17}1917:Unknown}{115}{chapter.17}%
-\contentsline {chapter}{\numberline {18}1918:Fritz Haber}{117}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Fritz Haber}{117}{section.18.1}%
-\contentsline {chapter}{\numberline {19}1919:Unknown}{123}{chapter.19}%
-\contentsline {chapter}{\numberline {20}1920:Walther Nernst}{125}{chapter.20}%
-\contentsline {section}{\numberline {20.1}Walther Nernst}{125}{section.20.1}%
-\contentsline {chapter}{\numberline {21}1921:Frederick Soddy}{131}{chapter.21}%
-\contentsline {section}{\numberline {21.1}Frederick Soddy}{131}{section.21.1}%
-\contentsline {chapter}{\numberline {22}1922:Francis W. Aston}{137}{chapter.22}%
-\contentsline {section}{\numberline {22.1}Francis W. Aston}{137}{section.22.1}%
-\contentsline {chapter}{\numberline {23}1923:Fritz Pregl}{143}{chapter.23}%
-\contentsline {section}{\numberline {23.1}Fritz Pregl}{143}{section.23.1}%
-\contentsline {chapter}{\numberline {24}1924:Unknown}{149}{chapter.24}%
-\contentsline {chapter}{\numberline {25}1925:Richard Zsigmondy}{151}{chapter.25}%
-\contentsline {section}{\numberline {25.1}Richard Zsigmondy}{151}{section.25.1}%
-\contentsline {chapter}{\numberline {26}1926:The Svedberg}{157}{chapter.26}%
-\contentsline {section}{\numberline {26.1}The Svedberg}{157}{section.26.1}%
-\contentsline {chapter}{\numberline {27}1927:Heinrich Wieland}{163}{chapter.27}%
-\contentsline {section}{\numberline {27.1}Heinrich Wieland}{163}{section.27.1}%
-\contentsline {chapter}{\numberline {28}1928:Adolf Windaus}{169}{chapter.28}%
-\contentsline {section}{\numberline {28.1}Adolf Windaus}{169}{section.28.1}%
-\contentsline {chapter}{\numberline {29}1929:Arthur Harden and Hans von Euler-Chelpin}{175}{chapter.29}%
-\contentsline {section}{\numberline {29.1}Arthur Harden}{175}{section.29.1}%
-\contentsline {section}{\numberline {29.2}Hans von Euler-Chelpin}{180}{section.29.2}%
-\contentsline {chapter}{\numberline {30}1930:Hans Fischer}{187}{chapter.30}%
-\contentsline {section}{\numberline {30.1}Hans Fischer}{187}{section.30.1}%
-\contentsline {chapter}{\numberline {31}1931:Carl Bosch and Friedrich Bergius}{193}{chapter.31}%
-\contentsline {section}{\numberline {31.1}Carl Bosch}{193}{section.31.1}%
-\contentsline {section}{\numberline {31.2}Friedrich Bergius}{198}{section.31.2}%
-\contentsline {chapter}{\numberline {32}1932:Irving Langmuir}{205}{chapter.32}%
-\contentsline {section}{\numberline {32.1}Irving Langmuir}{205}{section.32.1}%
-\contentsline {chapter}{\numberline {33}1933:Unknown}{211}{chapter.33}%
-\contentsline {chapter}{\numberline {34}1934:Harold C. Urey}{213}{chapter.34}%
-\contentsline {section}{\numberline {34.1}Harold C. Urey}{213}{section.34.1}%
-\contentsline {chapter}{\numberline {35}1935:Frédéric Joliot and Irène Joliot-Curie}{219}{chapter.35}%
-\contentsline {section}{\numberline {35.1}Frédéric Joliot}{219}{section.35.1}%
-\contentsline {section}{\numberline {35.2}Irène Joliot-Curie}{224}{section.35.2}%
-\contentsline {chapter}{\numberline {36}1936:Peter Debye}{231}{chapter.36}%
-\contentsline {section}{\numberline {36.1}Peter Debye}{231}{section.36.1}%
-\contentsline {chapter}{\numberline {37}1937:Norman Haworth and Paul Karrer}{237}{chapter.37}%
-\contentsline {section}{\numberline {37.1}Norman Haworth}{237}{section.37.1}%
-\contentsline {section}{\numberline {37.2}Paul Karrer}{242}{section.37.2}%
-\contentsline {chapter}{\numberline {38}1938:Richard Kuhn}{249}{chapter.38}%
-\contentsline {section}{\numberline {38.1}Richard Kuhn}{249}{section.38.1}%
-\contentsline {chapter}{\numberline {39}1939:Adolf Butenandt and Leopold Ruzicka}{255}{chapter.39}%
-\contentsline {section}{\numberline {39.1}Adolf Butenandt}{255}{section.39.1}%
-\contentsline {section}{\numberline {39.2}Leopold Ruzicka}{260}{section.39.2}%
-\contentsline {chapter}{\numberline {40}1940:Unknown}{267}{chapter.40}%
-\contentsline {chapter}{\numberline {41}1941:Unknown}{269}{chapter.41}%
-\contentsline {chapter}{\numberline {42}1942:Unknown}{271}{chapter.42}%
-\contentsline {chapter}{\numberline {43}1943:George de Hevesy}{273}{chapter.43}%
-\contentsline {section}{\numberline {43.1}George de Hevesy}{273}{section.43.1}%
-\contentsline {chapter}{\numberline {44}1944:Otto Hahn}{279}{chapter.44}%
-\contentsline {section}{\numberline {44.1}Otto Hahn}{279}{section.44.1}%
-\contentsline {chapter}{\numberline {45}1945:Artturi Virtanen}{285}{chapter.45}%
-\contentsline {section}{\numberline {45.1}Artturi Virtanen}{285}{section.45.1}%
-\contentsline {chapter}{\numberline {46}1946:James B. Sumner and John H. Northrop and Wendell M. Stanley}{291}{chapter.46}%
-\contentsline {section}{\numberline {46.1}James B. Sumner}{291}{section.46.1}%
-\contentsline {section}{\numberline {46.2}John H. Northrop}{296}{section.46.2}%
-\contentsline {section}{\numberline {46.3}Wendell M. Stanley}{301}{section.46.3}%
-\contentsline {chapter}{\numberline {47}1947:Sir Robert Robinson}{307}{chapter.47}%
-\contentsline {section}{\numberline {47.1}Sir Robert Robinson}{307}{section.47.1}%
-\contentsline {chapter}{\numberline {48}1948:Arne Tiselius}{313}{chapter.48}%
-\contentsline {section}{\numberline {48.1}Arne Tiselius}{313}{section.48.1}%
-\contentsline {chapter}{\numberline {49}1949:William F. Giauque}{319}{chapter.49}%
-\contentsline {section}{\numberline {49.1}William F. Giauque}{319}{section.49.1}%
-\contentsline {chapter}{\numberline {50}1950:Otto Diels and Kurt Alder}{325}{chapter.50}%
-\contentsline {section}{\numberline {50.1}Otto Diels}{325}{section.50.1}%
-\contentsline {section}{\numberline {50.2}Kurt Alder}{330}{section.50.2}%
-\contentsline {chapter}{\numberline {51}1951:Edwin M. McMillan and Glenn T. Seaborg}{337}{chapter.51}%
-\contentsline {section}{\numberline {51.1}Edwin M. McMillan}{337}{section.51.1}%
-\contentsline {section}{\numberline {51.2}Glenn T. Seaborg}{342}{section.51.2}%
-\contentsline {chapter}{\numberline {52}1952:Archer J.P. Martin and Richard L.M. Synge}{349}{chapter.52}%
-\contentsline {section}{\numberline {52.1}Archer J.P. Martin}{349}{section.52.1}%
-\contentsline {section}{\numberline {52.2}Richard L.M. Synge}{354}{section.52.2}%
-\contentsline {chapter}{\numberline {53}1953:Hermann Staudinger}{361}{chapter.53}%
-\contentsline {section}{\numberline {53.1}Hermann Staudinger}{361}{section.53.1}%
-\contentsline {chapter}{\numberline {54}1954:Linus Pauling}{367}{chapter.54}%
-\contentsline {section}{\numberline {54.1}Linus Pauling}{367}{section.54.1}%
-\contentsline {chapter}{\numberline {55}1955:Vincent du Vigneaud}{373}{chapter.55}%
-\contentsline {section}{\numberline {55.1}Vincent du Vigneaud}{373}{section.55.1}%
-\contentsline {chapter}{\numberline {56}1956:Sir Cyril Hinshelwood and Nikolay Semenov}{379}{chapter.56}%
-\contentsline {section}{\numberline {56.1}Sir Cyril Hinshelwood}{379}{section.56.1}%
-\contentsline {section}{\numberline {56.2}Nikolay Semenov}{384}{section.56.2}%
-\contentsline {chapter}{\numberline {57}1957:Lord Todd}{391}{chapter.57}%
-\contentsline {section}{\numberline {57.1}Lord Todd}{391}{section.57.1}%
-\contentsline {chapter}{\numberline {58}1958:Frederick Sanger}{397}{chapter.58}%
-\contentsline {section}{\numberline {58.1}Frederick Sanger}{397}{section.58.1}%
-\contentsline {chapter}{\numberline {59}1959:Jaroslav Heyrovsky}{403}{chapter.59}%
-\contentsline {section}{\numberline {59.1}Jaroslav Heyrovsky}{403}{section.59.1}%
-\contentsline {chapter}{\numberline {60}1960:Willard F. Libby}{409}{chapter.60}%
-\contentsline {section}{\numberline {60.1}Willard F. Libby}{409}{section.60.1}%
-\contentsline {chapter}{\numberline {61}1961:Melvin Calvin}{415}{chapter.61}%
-\contentsline {section}{\numberline {61.1}Melvin Calvin}{415}{section.61.1}%
-\contentsline {chapter}{\numberline {62}1962:Max F. Perutz and John C. Kendrew}{421}{chapter.62}%
-\contentsline {section}{\numberline {62.1}Max F. Perutz}{421}{section.62.1}%
-\contentsline {section}{\numberline {62.2}John C. Kendrew}{426}{section.62.2}%
-\contentsline {chapter}{\numberline {63}1963:Karl Ziegler and Giulio Natta}{433}{chapter.63}%
-\contentsline {section}{\numberline {63.1}Karl Ziegler}{433}{section.63.1}%
-\contentsline {section}{\numberline {63.2}Giulio Natta}{438}{section.63.2}%
-\contentsline {chapter}{\numberline {64}1964:Dorothy Crowfoot Hodgkin}{445}{chapter.64}%
-\contentsline {section}{\numberline {64.1}Dorothy Crowfoot Hodgkin}{445}{section.64.1}%
-\contentsline {chapter}{\numberline {65}1965:Robert B. Woodward}{453}{chapter.65}%
-\contentsline {section}{\numberline {65.1}Robert B. Woodward}{453}{section.65.1}%
-\contentsline {chapter}{\numberline {66}1966:Robert S. Mulliken}{459}{chapter.66}%
-\contentsline {section}{\numberline {66.1}Robert S. Mulliken}{459}{section.66.1}%
-\contentsline {chapter}{\numberline {67}1967:Manfred Eigen and Ronald G.W. Norrish and George Porter}{465}{chapter.67}%
-\contentsline {section}{\numberline {67.1}Manfred Eigen}{465}{section.67.1}%
-\contentsline {section}{\numberline {67.2}Ronald G.W. Norrish}{471}{section.67.2}%
-\contentsline {section}{\numberline {67.3}George Porter}{476}{section.67.3}%
-\contentsline {chapter}{\numberline {68}1968:Lars Onsager}{483}{chapter.68}%
-\contentsline {section}{\numberline {68.1}Lars Onsager}{483}{section.68.1}%
-\contentsline {chapter}{\numberline {69}1969:Derek Barton and Odd Hassel}{489}{chapter.69}%
-\contentsline {section}{\numberline {69.1}Derek Barton}{489}{section.69.1}%
-\contentsline {section}{\numberline {69.2}Odd Hassel}{494}{section.69.2}%
-\contentsline {chapter}{\numberline {70}1970:Luis Leloir}{501}{chapter.70}%
-\contentsline {section}{\numberline {70.1}Luis Leloir}{501}{section.70.1}%
-\contentsline {chapter}{\numberline {71}1971:Gerhard Herzberg}{507}{chapter.71}%
-\contentsline {section}{\numberline {71.1}Gerhard Herzberg}{507}{section.71.1}%
-\contentsline {chapter}{\numberline {72}1972:Christian Anfinsen and Stanford Moore and William H. Stein}{513}{chapter.72}%
-\contentsline {section}{\numberline {72.1}Christian Anfinsen}{513}{section.72.1}%
-\contentsline {section}{\numberline {72.2}Stanford Moore}{519}{section.72.2}%
-\contentsline {section}{\numberline {72.3}William H. Stein}{524}{section.72.3}%
-\contentsline {chapter}{\numberline {73}1973:Ernst Otto Fischer and Geoffrey Wilkinson}{531}{chapter.73}%
-\contentsline {section}{\numberline {73.1}Ernst Otto Fischer}{531}{section.73.1}%
-\contentsline {section}{\numberline {73.2}Geoffrey Wilkinson}{537}{section.73.2}%
-\contentsline {chapter}{\numberline {74}1974:Paul J. Flory}{543}{chapter.74}%
-\contentsline {section}{\numberline {74.1}Paul J. Flory}{543}{section.74.1}%
-\contentsline {chapter}{\numberline {75}1975:John Cornforth and Vladimir Prelog}{549}{chapter.75}%
-\contentsline {section}{\numberline {75.1}John Cornforth}{549}{section.75.1}%
-\contentsline {section}{\numberline {75.2}Vladimir Prelog}{554}{section.75.2}%
-\contentsline {chapter}{\numberline {76}1976:William Lipscomb}{561}{chapter.76}%
-\contentsline {section}{\numberline {76.1}William Lipscomb}{561}{section.76.1}%
-\contentsline {chapter}{\numberline {77}1977:Ilya Prigogine}{567}{chapter.77}%
-\contentsline {section}{\numberline {77.1}Ilya Prigogine}{567}{section.77.1}%
-\contentsline {chapter}{\numberline {78}1978:Peter Mitchell}{573}{chapter.78}%
-\contentsline {section}{\numberline {78.1}Peter Mitchell}{573}{section.78.1}%
-\contentsline {chapter}{\numberline {79}1979:Herbert C. Brown and Georg Wittig}{579}{chapter.79}%
-\contentsline {section}{\numberline {79.1}Herbert C. Brown}{579}{section.79.1}%
-\contentsline {section}{\numberline {79.2}Georg Wittig}{584}{section.79.2}%
-\contentsline {chapter}{\numberline {80}1980:Paul Berg and Walter Gilbert and Frederick Sanger}{591}{chapter.80}%
-\contentsline {section}{\numberline {80.1}Paul Berg}{591}{section.80.1}%
-\contentsline {section}{\numberline {80.2}Walter Gilbert}{596}{section.80.2}%
-\contentsline {section}{\numberline {80.3}Frederick Sanger}{601}{section.80.3}%
-\contentsline {chapter}{\numberline {81}1981:Kenichi Fukui and Roald Hoffmann}{607}{chapter.81}%
-\contentsline {section}{\numberline {81.1}Kenichi Fukui}{607}{section.81.1}%
-\contentsline {section}{\numberline {81.2}Roald Hoffmann}{612}{section.81.2}%
-\contentsline {chapter}{\numberline {82}1982:Aaron Klug}{619}{chapter.82}%
-\contentsline {section}{\numberline {82.1}Aaron Klug}{619}{section.82.1}%
-\contentsline {chapter}{\numberline {83}1983:Henry Taube}{625}{chapter.83}%
-\contentsline {section}{\numberline {83.1}Henry Taube}{625}{section.83.1}%
-\contentsline {chapter}{\numberline {84}1984:Bruce Merrifield}{631}{chapter.84}%
-\contentsline {section}{\numberline {84.1}Bruce Merrifield}{631}{section.84.1}%
-\contentsline {chapter}{\numberline {85}1985:Herbert A. Hauptman and Jerome Karle}{637}{chapter.85}%
-\contentsline {section}{\numberline {85.1}Herbert A. Hauptman}{637}{section.85.1}%
-\contentsline {section}{\numberline {85.2}Jerome Karle}{643}{section.85.2}%
-\contentsline {chapter}{\numberline {86}1986:Dudley R. Herschbach and Yuan T. Lee and John C. Polanyi}{649}{chapter.86}%
-\contentsline {section}{\numberline {86.1}Dudley R. Herschbach}{649}{section.86.1}%
-\contentsline {section}{\numberline {86.2}Yuan T. Lee}{654}{section.86.2}%
-\contentsline {section}{\numberline {86.3}John C. Polanyi}{659}{section.86.3}%
-\contentsline {chapter}{\numberline {87}1987:Donald J. Cram and Jean-Marie Lehn and Charles J. Pedersen}{665}{chapter.87}%
-\contentsline {section}{\numberline {87.1}Donald J. Cram}{665}{section.87.1}%
-\contentsline {section}{\numberline {87.2}Jean-Marie Lehn}{670}{section.87.2}%
-\contentsline {section}{\numberline {87.3}Charles J. Pedersen}{675}{section.87.3}%
-\contentsline {chapter}{\numberline {88}1988:Johann Deisenhofer and Robert Huber and Hartmut Michel}{681}{chapter.88}%
-\contentsline {section}{\numberline {88.1}Johann Deisenhofer}{681}{section.88.1}%
-\contentsline {section}{\numberline {88.2}Robert Huber}{686}{section.88.2}%
-\contentsline {section}{\numberline {88.3}Hartmut Michel}{691}{section.88.3}%
-\contentsline {chapter}{\numberline {89}1989:Sidney Altman and Thomas R. Cech}{697}{chapter.89}%
-\contentsline {section}{\numberline {89.1}Sidney Altman}{697}{section.89.1}%
-\contentsline {section}{\numberline {89.2}Thomas R. Cech}{702}{section.89.2}%
-\contentsline {chapter}{\numberline {90}1990:Elias James Corey}{709}{chapter.90}%
-\contentsline {section}{\numberline {90.1}Elias James Corey}{709}{section.90.1}%
-\contentsline {chapter}{\numberline {91}1991:Richard R. Ernst}{715}{chapter.91}%
-\contentsline {section}{\numberline {91.1}Richard R. Ernst}{715}{section.91.1}%
-\contentsline {chapter}{\numberline {92}1992:Rudolph A. Marcus}{721}{chapter.92}%
-\contentsline {section}{\numberline {92.1}Rudolph A. Marcus}{721}{section.92.1}%
-\contentsline {chapter}{\numberline {93}1993:Kary B. Mullis and Michael Smith}{727}{chapter.93}%
-\contentsline {section}{\numberline {93.1}Kary B. Mullis}{727}{section.93.1}%
-\contentsline {section}{\numberline {93.2}Michael Smith}{732}{section.93.2}%
-\contentsline {chapter}{\numberline {94}1994:George A. Olah}{739}{chapter.94}%
-\contentsline {section}{\numberline {94.1}George A. Olah}{739}{section.94.1}%
-\contentsline {chapter}{\numberline {95}1995:Paul J. Crutzen and Mario J. Molina and F. Sherwood Rowland}{745}{chapter.95}%
-\contentsline {section}{\numberline {95.1}Paul J. Crutzen}{745}{section.95.1}%
-\contentsline {section}{\numberline {95.2}Mario J. Molina}{750}{section.95.2}%
-\contentsline {section}{\numberline {95.3}F. Sherwood Rowland}{755}{section.95.3}%
-\contentsline {chapter}{\numberline {96}1996:Robert F. Curl Jr. and Sir Harold Kroto and Richard E. Smalley}{761}{chapter.96}%
-\contentsline {section}{\numberline {96.1}Robert F. Curl Jr.}{761}{section.96.1}%
-\contentsline {section}{\numberline {96.2}Sir Harold Kroto}{766}{section.96.2}%
-\contentsline {section}{\numberline {96.3}Richard E. Smalley}{771}{section.96.3}%
-\contentsline {chapter}{\numberline {97}1997:Paul D. Boyer and John E. Walker and Jens C. Skou}{777}{chapter.97}%
-\contentsline {section}{\numberline {97.1}Paul D. Boyer}{777}{section.97.1}%
-\contentsline {section}{\numberline {97.2}John E. Walker}{782}{section.97.2}%
-\contentsline {section}{\numberline {97.3}Jens C. Skou}{787}{section.97.3}%
-\contentsline {chapter}{\numberline {98}1998:Walter Kohn and John Pople}{793}{chapter.98}%
-\contentsline {section}{\numberline {98.1}Walter Kohn}{793}{section.98.1}%
-\contentsline {section}{\numberline {98.2}John Pople}{798}{section.98.2}%
-\contentsline {chapter}{\numberline {99}1999:Ahmed Zewail}{805}{chapter.99}%
-\contentsline {section}{\numberline {99.1}Ahmed Zewail}{805}{section.99.1}%
-\contentsline {chapter}{\numberline {100}2000:Alan Heeger and Alan MacDiarmid and Hideki Shirakawa}{811}{chapter.100}%
-\contentsline {section}{\numberline {100.1}Alan Heeger}{811}{section.100.1}%
-\contentsline {section}{\numberline {100.2}Alan MacDiarmid}{816}{section.100.2}%
-\contentsline {section}{\numberline {100.3}Hideki Shirakawa}{821}{section.100.3}%
-\contentsline {chapter}{\numberline {101}2001:William Knowles and Ryoji Noyori and K. Barry Sharpless}{827}{chapter.101}%
-\contentsline {section}{\numberline {101.1}William Knowles}{827}{section.101.1}%
-\contentsline {section}{\numberline {101.2}Ryoji Noyori}{832}{section.101.2}%
-\contentsline {section}{\numberline {101.3}K. Barry Sharpless}{837}{section.101.3}%
-\contentsline {chapter}{\numberline {102}2002:John B. Fenn and Koichi Tanaka and Kurt Wüthrich}{843}{chapter.102}%
-\contentsline {section}{\numberline {102.1}John B. Fenn}{843}{section.102.1}%
-\contentsline {section}{\numberline {102.2}Koichi Tanaka}{848}{section.102.2}%
-\contentsline {section}{\numberline {102.3}Kurt Wüthrich}{853}{section.102.3}%
-\contentsline {chapter}{\numberline {103}2003:Peter Agre and Roderick MacKinnon}{859}{chapter.103}%
-\contentsline {section}{\numberline {103.1}Peter Agre}{859}{section.103.1}%
-\contentsline {section}{\numberline {103.2}Roderick MacKinnon}{864}{section.103.2}%
-\contentsline {chapter}{\numberline {104}2004:Aaron Ciechanover and Avram Hershko and Irwin Rose}{871}{chapter.104}%
-\contentsline {section}{\numberline {104.1}Aaron Ciechanover}{871}{section.104.1}%
-\contentsline {section}{\numberline {104.2}Avram Hershko}{876}{section.104.2}%
-\contentsline {section}{\numberline {104.3}Irwin Rose}{881}{section.104.3}%
-\contentsline {chapter}{\numberline {105}2005:Yves Chauvin and Robert H. Grubbs and Richard R. Schrock}{887}{chapter.105}%
-\contentsline {section}{\numberline {105.1}Yves Chauvin}{887}{section.105.1}%
-\contentsline {section}{\numberline {105.2}Robert H. Grubbs}{892}{section.105.2}%
-\contentsline {section}{\numberline {105.3}Richard R. Schrock}{897}{section.105.3}%
-\contentsline {chapter}{\numberline {106}2006:Roger D. Kornberg}{903}{chapter.106}%
-\contentsline {section}{\numberline {106.1}Roger D. Kornberg}{903}{section.106.1}%
-\contentsline {chapter}{\numberline {107}2007:Gerhard Ertl}{909}{chapter.107}%
-\contentsline {section}{\numberline {107.1}Gerhard Ertl}{909}{section.107.1}%
-\contentsline {chapter}{\numberline {108}2008:Osamu Shimomura and Martin Chalfie and Roger Y. Tsien}{915}{chapter.108}%
-\contentsline {section}{\numberline {108.1}Osamu Shimomura}{915}{section.108.1}%
-\contentsline {section}{\numberline {108.2}Martin Chalfie}{920}{section.108.2}%
-\contentsline {section}{\numberline {108.3}Roger Y. Tsien}{925}{section.108.3}%
-\contentsline {chapter}{\numberline {109}2009:Venkatraman Ramakrishnan and Thomas A. Steitz and Ada E. Yonath}{931}{chapter.109}%
-\contentsline {section}{\numberline {109.1}Venkatraman Ramakrishnan}{931}{section.109.1}%
-\contentsline {section}{\numberline {109.2}Thomas A. Steitz}{937}{section.109.2}%
-\contentsline {section}{\numberline {109.3}Ada E. Yonath}{942}{section.109.3}%
-\contentsline {chapter}{\numberline {110}2010:Richard F. Heck and Ei-ichi Negishi and Akira Suzuki}{949}{chapter.110}%
-\contentsline {section}{\numberline {110.1}Richard F. Heck}{949}{section.110.1}%
-\contentsline {section}{\numberline {110.2}Ei-ichi Negishi}{954}{section.110.2}%
-\contentsline {section}{\numberline {110.3}Akira Suzuki}{959}{section.110.3}%
-\contentsline {chapter}{\numberline {111}2011:Dan Shechtman}{965}{chapter.111}%
-\contentsline {section}{\numberline {111.1}Dan Shechtman}{965}{section.111.1}%
-\contentsline {chapter}{\numberline {112}2012:Robert J. Lefkowitz and Brian Kobilka}{971}{chapter.112}%
-\contentsline {section}{\numberline {112.1}Robert J. Lefkowitz}{971}{section.112.1}%
-\contentsline {section}{\numberline {112.2}Brian Kobilka}{976}{section.112.2}%
-\contentsline {chapter}{\numberline {113}2013:Martin Karplus and Michael Levitt and Arieh Warshel}{983}{chapter.113}%
-\contentsline {section}{\numberline {113.1}Martin Karplus}{983}{section.113.1}%
-\contentsline {section}{\numberline {113.2}Michael Levitt}{988}{section.113.2}%
-\contentsline {section}{\numberline {113.3}Arieh Warshel}{993}{section.113.3}%
-\contentsline {chapter}{\numberline {114}2014:Eric Betzig and Stefan W. Hell and William E. Moerner}{999}{chapter.114}%
-\contentsline {section}{\numberline {114.1}Eric Betzig}{999}{section.114.1}%
-\contentsline {section}{\numberline {114.2}Stefan W. Hell}{1004}{section.114.2}%
-\contentsline {section}{\numberline {114.3}William E. Moerner}{1009}{section.114.3}%
-\contentsline {chapter}{\numberline {115}2015:Tomas Lindahl and Paul Modrich and Aziz Sancar}{1015}{chapter.115}%
-\contentsline {section}{\numberline {115.1}Tomas Lindahl}{1015}{section.115.1}%
-\contentsline {section}{\numberline {115.2}Paul Modrich}{1020}{section.115.2}%
-\contentsline {section}{\numberline {115.3}Aziz Sancar}{1025}{section.115.3}%
-\contentsline {chapter}{\numberline {116}2016:Jean-Pierre Sauvage and Sir J. Fraser Stoddart and Bernard L. Feringa}{1031}{chapter.116}%
-\contentsline {section}{\numberline {116.1}Jean-Pierre Sauvage}{1031}{section.116.1}%
-\contentsline {section}{\numberline {116.2}Sir J. Fraser Stoddart}{1036}{section.116.2}%
-\contentsline {section}{\numberline {116.3}Bernard L. Feringa}{1041}{section.116.3}%
-\contentsline {chapter}{\numberline {117}2017:Jacques Dubochet and Joachim Frank and Richard Henderson}{1047}{chapter.117}%
-\contentsline {section}{\numberline {117.1}Jacques Dubochet}{1047}{section.117.1}%
-\contentsline {section}{\numberline {117.2}Joachim Frank}{1052}{section.117.2}%
-\contentsline {section}{\numberline {117.3}Richard Henderson}{1057}{section.117.3}%
-\contentsline {chapter}{\numberline {118}2018:Frances H. Arnold and George P. Smith and Sir Gregory P. Winter}{1063}{chapter.118}%
-\contentsline {section}{\numberline {118.1}Frances H. Arnold}{1063}{section.118.1}%
-\contentsline {section}{\numberline {118.2}George P. Smith}{1068}{section.118.2}%
-\contentsline {section}{\numberline {118.3}Sir Gregory P. Winter}{1073}{section.118.3}%
-\contentsline {chapter}{\numberline {119}2019:John B. Goodenough and M. Stanley Whittingham and Akira Yoshino}{1079}{chapter.119}%
-\contentsline {section}{\numberline {119.1}John B. Goodenough}{1079}{section.119.1}%
-\contentsline {section}{\numberline {119.2}M. Stanley Whittingham}{1084}{section.119.2}%
-\contentsline {section}{\numberline {119.3}Akira Yoshino}{1089}{section.119.3}%
-\contentsline {chapter}{\numberline {120}2020:Emmanuelle Charpentier and Jennifer A. Doudna}{1095}{chapter.120}%
-\contentsline {section}{\numberline {120.1}Emmanuelle Charpentier}{1095}{section.120.1}%
-\contentsline {section}{\numberline {120.2}Jennifer A. Doudna}{1100}{section.120.2}%
-\contentsline {chapter}{\numberline {121}2021:Benjamin List and David W.C. MacMillan}{1107}{chapter.121}%
-\contentsline {section}{\numberline {121.1}Benjamin List}{1107}{section.121.1}%
-\contentsline {section}{\numberline {121.2}David W.C. MacMillan}{1112}{section.121.2}%
-\contentsline {chapter}{\numberline {122}2022:Carolyn Bertozzi and Morten Meldal and K. Barry Sharpless}{1119}{chapter.122}%
-\contentsline {section}{\numberline {122.1}Carolyn Bertozzi}{1119}{section.122.1}%
-\contentsline {section}{\numberline {122.2}Morten Meldal}{1124}{section.122.2}%
-\contentsline {section}{\numberline {122.3}K. Barry Sharpless}{1129}{section.122.3}%
-\contentsline {chapter}{\numberline {123}2023:Moungi Bawendi and Louis Brus and Aleksey Yekimov }{1135}{chapter.123}%
-\contentsline {section}{\numberline {123.1}Moungi Bawendi}{1135}{section.123.1}%
-\contentsline {section}{\numberline {123.2}Louis Brus}{1140}{section.123.2}%
-\contentsline {section}{\numberline {123.3}Aleksey Yekimov }{1145}{section.123.3}%
-\contentsline {chapter}{\numberline {124}2024:David Baker and Demis Hassabis and John Jumper}{1151}{chapter.124}%
-\contentsline {section}{\numberline {124.1}David Baker}{1151}{section.124.1}%
-\contentsline {section}{\numberline {124.2}Demis Hassabis}{1156}{section.124.2}%
-\contentsline {section}{\numberline {124.3}John Jumper}{1161}{section.124.3}%
-\contentsline {chapter}{\numberline {125}2025:Susumu Kitagawa and Richard Robson and Omar M. Yaghi}{1167}{chapter.125}%
-\contentsline {section}{\numberline {125.1}Susumu Kitagawa}{1167}{section.125.1}%
-\contentsline {section}{\numberline {125.2}Richard Robson}{1172}{section.125.2}%
-\contentsline {section}{\numberline {125.3}Omar M. Yaghi}{1177}{section.125.3}%
+\contentsline {chapter}{\numberline {2}1902:Emil Fischer}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Emil Fischer}{19}{section.2.1}%
+\contentsline {chapter}{\numberline {3}1903:Svante Arrhenius}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Svante Arrhenius}{23}{section.3.1}%
+\contentsline {chapter}{\numberline {4}1904:Sir William Ramsay}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Sir William Ramsay}{27}{section.4.1}%
+\contentsline {chapter}{\numberline {5}1905:Adolf von Baeyer}{31}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Adolf von Baeyer}{31}{section.5.1}%
+\contentsline {chapter}{\numberline {6}1906:Henri Moissan}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Henri Moissan}{35}{section.6.1}%
+\contentsline {chapter}{\numberline {7}1907:Eduard Buchner}{39}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Eduard Buchner}{39}{section.7.1}%
+\contentsline {chapter}{\numberline {8}1908:Ernest Rutherford}{43}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Ernest Rutherford}{43}{section.8.1}%
+\contentsline {chapter}{\numberline {9}1909:Wilhelm Ostwald}{47}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Wilhelm Ostwald}{47}{section.9.1}%
+\contentsline {chapter}{\numberline {10}1910:Otto Wallach}{51}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Otto Wallach}{51}{section.10.1}%
+\contentsline {chapter}{\numberline {11}1911:Marie Curie}{55}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Marie Curie}{55}{section.11.1}%
+\contentsline {chapter}{\numberline {12}1912:Victor Grignard and Paul Sabatier}{59}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Victor Grignard}{59}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Paul Sabatier}{61}{section.12.2}%
+\contentsline {chapter}{\numberline {13}1913:Alfred Werner}{63}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Alfred Werner}{63}{section.13.1}%
+\contentsline {chapter}{\numberline {14}1914:Theodore W. Richards}{67}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Theodore W. Richards}{67}{section.14.1}%
+\contentsline {chapter}{\numberline {15}1915:Richard Willstätter}{71}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Richard Willstätter}{71}{section.15.1}%
+\contentsline {chapter}{\numberline {16}1916:No Prize Awarded}{75}{chapter.16}%
+\contentsline {chapter}{\numberline {17}1917:No Prize Awarded}{77}{chapter.17}%
+\contentsline {chapter}{\numberline {18}1918:Fritz Haber}{79}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Fritz Haber}{79}{section.18.1}%
+\contentsline {chapter}{\numberline {19}1919:No Prize Awarded}{83}{chapter.19}%
+\contentsline {chapter}{\numberline {20}1920:Walther Nernst}{85}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Walther Nernst}{85}{section.20.1}%
+\contentsline {chapter}{\numberline {21}1921:Frederick Soddy}{89}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Frederick Soddy}{89}{section.21.1}%
+\contentsline {chapter}{\numberline {22}1922:Francis W. Aston}{93}{chapter.22}%
+\contentsline {section}{\numberline {22.1}Francis W. Aston}{93}{section.22.1}%
+\contentsline {chapter}{\numberline {23}1923:Fritz Pregl}{97}{chapter.23}%
+\contentsline {section}{\numberline {23.1}Fritz Pregl}{97}{section.23.1}%
+\contentsline {chapter}{\numberline {24}1924:No Prize Awarded}{101}{chapter.24}%
+\contentsline {chapter}{\numberline {25}1925:Richard Zsigmondy}{103}{chapter.25}%
+\contentsline {section}{\numberline {25.1}Richard Zsigmondy}{103}{section.25.1}%
+\contentsline {chapter}{\numberline {26}1926:The Svedberg}{107}{chapter.26}%
+\contentsline {section}{\numberline {26.1}The Svedberg}{107}{section.26.1}%
+\contentsline {chapter}{\numberline {27}1927:Heinrich Wieland}{111}{chapter.27}%
+\contentsline {section}{\numberline {27.1}Heinrich Wieland}{111}{section.27.1}%
+\contentsline {chapter}{\numberline {28}1928:Adolf Windaus}{115}{chapter.28}%
+\contentsline {section}{\numberline {28.1}Adolf Windaus}{115}{section.28.1}%
+\contentsline {chapter}{\numberline {29}1929:Arthur Harden and Hans von Euler-Chelpin}{119}{chapter.29}%
+\contentsline {section}{\numberline {29.1}Arthur Harden}{119}{section.29.1}%
+\contentsline {section}{\numberline {29.2}Hans von Euler-Chelpin}{121}{section.29.2}%
+\contentsline {chapter}{\numberline {30}1930:Hans Fischer}{123}{chapter.30}%
+\contentsline {section}{\numberline {30.1}Hans Fischer}{123}{section.30.1}%
+\contentsline {chapter}{\numberline {31}1931:Carl Bosch and Friedrich Bergius}{127}{chapter.31}%
+\contentsline {section}{\numberline {31.1}Carl Bosch}{127}{section.31.1}%
+\contentsline {section}{\numberline {31.2}Friedrich Bergius}{129}{section.31.2}%
+\contentsline {chapter}{\numberline {32}1932:Irving Langmuir}{131}{chapter.32}%
+\contentsline {section}{\numberline {32.1}Irving Langmuir}{131}{section.32.1}%
+\contentsline {chapter}{\numberline {33}1933:No Prize Awarded}{135}{chapter.33}%
+\contentsline {chapter}{\numberline {34}1934:Harold C. Urey}{137}{chapter.34}%
+\contentsline {section}{\numberline {34.1}Harold C. Urey}{137}{section.34.1}%
+\contentsline {chapter}{\numberline {35}1935:Frédéric Joliot and Irène Joliot-Curie}{141}{chapter.35}%
+\contentsline {section}{\numberline {35.1}Frédéric Joliot}{141}{section.35.1}%
+\contentsline {section}{\numberline {35.2}Irène Joliot-Curie}{143}{section.35.2}%
+\contentsline {chapter}{\numberline {36}1936:Peter Debye}{145}{chapter.36}%
+\contentsline {section}{\numberline {36.1}Peter Debye}{145}{section.36.1}%
+\contentsline {chapter}{\numberline {37}1937:Norman Haworth and Paul Karrer}{149}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Norman Haworth}{149}{section.37.1}%
+\contentsline {section}{\numberline {37.2}Paul Karrer}{151}{section.37.2}%
+\contentsline {chapter}{\numberline {38}1938:Richard Kuhn}{153}{chapter.38}%
+\contentsline {section}{\numberline {38.1}Richard Kuhn}{153}{section.38.1}%
+\contentsline {chapter}{\numberline {39}1939:Adolf Butenandt and Leopold Ruzicka}{157}{chapter.39}%
+\contentsline {section}{\numberline {39.1}Adolf Butenandt}{157}{section.39.1}%
+\contentsline {section}{\numberline {39.2}Leopold Ruzicka}{159}{section.39.2}%
+\contentsline {chapter}{\numberline {40}1940:No Prize Awarded}{161}{chapter.40}%
+\contentsline {chapter}{\numberline {41}1941:No Prize Awarded}{163}{chapter.41}%
+\contentsline {chapter}{\numberline {42}1942:No Prize Awarded}{165}{chapter.42}%
+\contentsline {chapter}{\numberline {43}1943:George de Hevesy}{167}{chapter.43}%
+\contentsline {section}{\numberline {43.1}George de Hevesy}{167}{section.43.1}%
+\contentsline {chapter}{\numberline {44}1944:Otto Hahn}{171}{chapter.44}%
+\contentsline {section}{\numberline {44.1}Otto Hahn}{171}{section.44.1}%
+\contentsline {chapter}{\numberline {45}1945:Artturi Virtanen}{175}{chapter.45}%
+\contentsline {section}{\numberline {45.1}Artturi Virtanen}{175}{section.45.1}%
+\contentsline {chapter}{\numberline {46}1946:James B. Sumner and John H. Northrop and Wendell M. Stanley}{179}{chapter.46}%
+\contentsline {section}{\numberline {46.1}James B. Sumner}{179}{section.46.1}%
+\contentsline {section}{\numberline {46.2}John H. Northrop}{181}{section.46.2}%
+\contentsline {section}{\numberline {46.3}Wendell M. Stanley}{182}{section.46.3}%
+\contentsline {chapter}{\numberline {47}1947:Sir Robert Robinson}{185}{chapter.47}%
+\contentsline {section}{\numberline {47.1}Sir Robert Robinson}{185}{section.47.1}%
+\contentsline {chapter}{\numberline {48}1948:Arne Tiselius}{189}{chapter.48}%
+\contentsline {section}{\numberline {48.1}Arne Tiselius}{189}{section.48.1}%
+\contentsline {chapter}{\numberline {49}1949:William F. Giauque}{193}{chapter.49}%
+\contentsline {section}{\numberline {49.1}William F. Giauque}{193}{section.49.1}%
+\contentsline {chapter}{\numberline {50}1950:Otto Diels and Kurt Alder}{197}{chapter.50}%
+\contentsline {section}{\numberline {50.1}Otto Diels}{197}{section.50.1}%
+\contentsline {section}{\numberline {50.2}Kurt Alder}{199}{section.50.2}%
+\contentsline {chapter}{\numberline {51}1951:Edwin M. McMillan and Glenn T. Seaborg}{201}{chapter.51}%
+\contentsline {section}{\numberline {51.1}Edwin M. McMillan}{201}{section.51.1}%
+\contentsline {section}{\numberline {51.2}Glenn T. Seaborg}{203}{section.51.2}%
+\contentsline {chapter}{\numberline {52}1952:Archer J.P. Martin and Richard L.M. Synge}{205}{chapter.52}%
+\contentsline {section}{\numberline {52.1}Archer J.P. Martin}{205}{section.52.1}%
+\contentsline {section}{\numberline {52.2}Richard L.M. Synge}{207}{section.52.2}%
+\contentsline {chapter}{\numberline {53}1953:Hermann Staudinger}{209}{chapter.53}%
+\contentsline {section}{\numberline {53.1}Hermann Staudinger}{209}{section.53.1}%
+\contentsline {chapter}{\numberline {54}1954:Linus Pauling}{213}{chapter.54}%
+\contentsline {section}{\numberline {54.1}Linus Pauling}{213}{section.54.1}%
+\contentsline {chapter}{\numberline {55}1955:Vincent du Vigneaud}{217}{chapter.55}%
+\contentsline {section}{\numberline {55.1}Vincent du Vigneaud}{217}{section.55.1}%
+\contentsline {chapter}{\numberline {56}1956:Sir Cyril Hinshelwood and Nikolay Semenov}{221}{chapter.56}%
+\contentsline {section}{\numberline {56.1}Sir Cyril Hinshelwood}{221}{section.56.1}%
+\contentsline {section}{\numberline {56.2}Nikolay Semenov}{223}{section.56.2}%
+\contentsline {chapter}{\numberline {57}1957:Lord Todd}{225}{chapter.57}%
+\contentsline {section}{\numberline {57.1}Lord Todd}{225}{section.57.1}%
+\contentsline {chapter}{\numberline {58}1958:Frederick Sanger}{229}{chapter.58}%
+\contentsline {section}{\numberline {58.1}Frederick Sanger}{229}{section.58.1}%
+\contentsline {chapter}{\numberline {59}1959:Jaroslav Heyrovsky}{233}{chapter.59}%
+\contentsline {section}{\numberline {59.1}Jaroslav Heyrovsky}{233}{section.59.1}%
+\contentsline {chapter}{\numberline {60}1960:Willard F. Libby}{237}{chapter.60}%
+\contentsline {section}{\numberline {60.1}Willard F. Libby}{237}{section.60.1}%
+\contentsline {chapter}{\numberline {61}1961:Melvin Calvin}{241}{chapter.61}%
+\contentsline {section}{\numberline {61.1}Melvin Calvin}{241}{section.61.1}%
+\contentsline {chapter}{\numberline {62}1962:Max F. Perutz and John C. Kendrew}{245}{chapter.62}%
+\contentsline {section}{\numberline {62.1}Max F. Perutz}{245}{section.62.1}%
+\contentsline {section}{\numberline {62.2}John C. Kendrew}{247}{section.62.2}%
+\contentsline {chapter}{\numberline {63}1963:Karl Ziegler and Giulio Natta}{249}{chapter.63}%
+\contentsline {section}{\numberline {63.1}Karl Ziegler}{249}{section.63.1}%
+\contentsline {section}{\numberline {63.2}Giulio Natta}{251}{section.63.2}%
+\contentsline {chapter}{\numberline {64}1964:Dorothy Crowfoot Hodgkin}{253}{chapter.64}%
+\contentsline {section}{\numberline {64.1}Dorothy Crowfoot Hodgkin}{253}{section.64.1}%
+\contentsline {chapter}{\numberline {65}1965:Robert B. Woodward}{257}{chapter.65}%
+\contentsline {section}{\numberline {65.1}Robert B. Woodward}{257}{section.65.1}%
+\contentsline {chapter}{\numberline {66}1966:Robert S. Mulliken}{261}{chapter.66}%
+\contentsline {section}{\numberline {66.1}Robert S. Mulliken}{261}{section.66.1}%
+\contentsline {chapter}{\numberline {67}1967:Manfred Eigen and Ronald G.W. Norrish and George Porter}{265}{chapter.67}%
+\contentsline {section}{\numberline {67.1}Manfred Eigen}{265}{section.67.1}%
+\contentsline {section}{\numberline {67.2}Ronald G.W. Norrish}{267}{section.67.2}%
+\contentsline {section}{\numberline {67.3}George Porter}{268}{section.67.3}%
+\contentsline {chapter}{\numberline {68}1968:Lars Onsager}{271}{chapter.68}%
+\contentsline {section}{\numberline {68.1}Lars Onsager}{271}{section.68.1}%
+\contentsline {chapter}{\numberline {69}1969:Derek Barton and Odd Hassel}{275}{chapter.69}%
+\contentsline {section}{\numberline {69.1}Derek Barton}{275}{section.69.1}%
+\contentsline {section}{\numberline {69.2}Odd Hassel}{277}{section.69.2}%
+\contentsline {chapter}{\numberline {70}1970:Luis Leloir}{279}{chapter.70}%
+\contentsline {section}{\numberline {70.1}Luis Leloir}{279}{section.70.1}%
+\contentsline {chapter}{\numberline {71}1971:Gerhard Herzberg}{283}{chapter.71}%
+\contentsline {section}{\numberline {71.1}Gerhard Herzberg}{283}{section.71.1}%
+\contentsline {chapter}{\numberline {72}1972:Christian Anfinsen and Stanford Moore and William H. Stein}{287}{chapter.72}%
+\contentsline {section}{\numberline {72.1}Christian Anfinsen}{287}{section.72.1}%
+\contentsline {section}{\numberline {72.2}Stanford Moore}{289}{section.72.2}%
+\contentsline {section}{\numberline {72.3}William H. Stein}{290}{section.72.3}%
+\contentsline {chapter}{\numberline {73}1973:Ernst Otto Fischer and Geoffrey Wilkinson}{293}{chapter.73}%
+\contentsline {section}{\numberline {73.1}Ernst Otto Fischer}{293}{section.73.1}%
+\contentsline {section}{\numberline {73.2}Geoffrey Wilkinson}{295}{section.73.2}%
+\contentsline {chapter}{\numberline {74}1974:Paul J. Flory}{297}{chapter.74}%
+\contentsline {section}{\numberline {74.1}Paul J. Flory}{297}{section.74.1}%
+\contentsline {chapter}{\numberline {75}1975:John Cornforth and Vladimir Prelog}{301}{chapter.75}%
+\contentsline {section}{\numberline {75.1}John Cornforth}{301}{section.75.1}%
+\contentsline {section}{\numberline {75.2}Vladimir Prelog}{303}{section.75.2}%
+\contentsline {chapter}{\numberline {76}1976:William Lipscomb}{305}{chapter.76}%
+\contentsline {section}{\numberline {76.1}William Lipscomb}{305}{section.76.1}%
+\contentsline {chapter}{\numberline {77}1977:Ilya Prigogine}{309}{chapter.77}%
+\contentsline {section}{\numberline {77.1}Ilya Prigogine}{309}{section.77.1}%
+\contentsline {chapter}{\numberline {78}1978:Peter Mitchell}{313}{chapter.78}%
+\contentsline {section}{\numberline {78.1}Peter Mitchell}{313}{section.78.1}%
+\contentsline {chapter}{\numberline {79}1979:Herbert C. Brown and Georg Wittig}{317}{chapter.79}%
+\contentsline {section}{\numberline {79.1}Herbert C. Brown}{317}{section.79.1}%
+\contentsline {section}{\numberline {79.2}Georg Wittig}{319}{section.79.2}%
+\contentsline {chapter}{\numberline {80}1980:Paul Berg and Walter Gilbert and Frederick Sanger}{321}{chapter.80}%
+\contentsline {section}{\numberline {80.1}Paul Berg}{321}{section.80.1}%
+\contentsline {section}{\numberline {80.2}Walter Gilbert}{323}{section.80.2}%
+\contentsline {section}{\numberline {80.3}Frederick Sanger}{324}{section.80.3}%
+\contentsline {chapter}{\numberline {81}1981:Kenichi Fukui and Roald Hoffmann}{327}{chapter.81}%
+\contentsline {section}{\numberline {81.1}Kenichi Fukui}{327}{section.81.1}%
+\contentsline {section}{\numberline {81.2}Roald Hoffmann}{329}{section.81.2}%
+\contentsline {chapter}{\numberline {82}1982:Aaron Klug}{331}{chapter.82}%
+\contentsline {section}{\numberline {82.1}Aaron Klug}{331}{section.82.1}%
+\contentsline {chapter}{\numberline {83}1983:Henry Taube}{335}{chapter.83}%
+\contentsline {section}{\numberline {83.1}Henry Taube}{335}{section.83.1}%
+\contentsline {chapter}{\numberline {84}1984:Robert Bruce Merrifield}{339}{chapter.84}%
+\contentsline {section}{\numberline {84.1}Robert Bruce Merrifield}{339}{section.84.1}%
+\contentsline {chapter}{\numberline {85}1985:Herbert A. Hauptman and Jerome Karle}{343}{chapter.85}%
+\contentsline {section}{\numberline {85.1}Herbert A. Hauptman}{343}{section.85.1}%
+\contentsline {section}{\numberline {85.2}Jerome Karle}{345}{section.85.2}%
+\contentsline {chapter}{\numberline {86}1986:Dudley R. Herschbach and Yuan T. Lee and John C. Polanyi}{347}{chapter.86}%
+\contentsline {section}{\numberline {86.1}Dudley R. Herschbach}{347}{section.86.1}%
+\contentsline {section}{\numberline {86.2}Yuan T. Lee}{349}{section.86.2}%
+\contentsline {section}{\numberline {86.3}John C. Polanyi}{350}{section.86.3}%
+\contentsline {chapter}{\numberline {87}1987:Donald J. Cram and Jean-Marie Lehn and Charles J. Pedersen}{353}{chapter.87}%
+\contentsline {section}{\numberline {87.1}Donald J. Cram}{353}{section.87.1}%
+\contentsline {section}{\numberline {87.2}Jean-Marie Lehn}{355}{section.87.2}%
+\contentsline {section}{\numberline {87.3}Charles J. Pedersen}{356}{section.87.3}%
+\contentsline {chapter}{\numberline {88}1988:Johann Deisenhofer and Robert Huber and Hartmut Michel}{359}{chapter.88}%
+\contentsline {section}{\numberline {88.1}Johann Deisenhofer}{359}{section.88.1}%
+\contentsline {section}{\numberline {88.2}Robert Huber}{361}{section.88.2}%
+\contentsline {section}{\numberline {88.3}Hartmut Michel}{362}{section.88.3}%
+\contentsline {chapter}{\numberline {89}1989:Sidney Altman and Thomas R. Cech}{365}{chapter.89}%
+\contentsline {section}{\numberline {89.1}Sidney Altman}{365}{section.89.1}%
+\contentsline {section}{\numberline {89.2}Thomas R. Cech}{367}{section.89.2}%
+\contentsline {chapter}{\numberline {90}1990:Elias James Corey}{369}{chapter.90}%
+\contentsline {section}{\numberline {90.1}Elias James Corey}{369}{section.90.1}%
+\contentsline {chapter}{\numberline {91}1991:Richard R. Ernst}{373}{chapter.91}%
+\contentsline {section}{\numberline {91.1}Richard R. Ernst}{373}{section.91.1}%
+\contentsline {chapter}{\numberline {92}1992:Rudolph A. Marcus}{377}{chapter.92}%
+\contentsline {section}{\numberline {92.1}Rudolph A. Marcus}{377}{section.92.1}%
+\contentsline {chapter}{\numberline {93}1993:Kary B. Mullis and Michael Smith}{381}{chapter.93}%
+\contentsline {section}{\numberline {93.1}Kary B. Mullis}{381}{section.93.1}%
+\contentsline {section}{\numberline {93.2}Michael Smith}{383}{section.93.2}%
+\contentsline {chapter}{\numberline {94}1994:George A. Olah}{385}{chapter.94}%
+\contentsline {section}{\numberline {94.1}George A. Olah}{385}{section.94.1}%
+\contentsline {chapter}{\numberline {95}1995:Paul J. Crutzen and Mario J. Molina and F. Sherwood Rowland}{389}{chapter.95}%
+\contentsline {section}{\numberline {95.1}Paul J. Crutzen}{389}{section.95.1}%
+\contentsline {section}{\numberline {95.2}Mario J. Molina}{391}{section.95.2}%
+\contentsline {section}{\numberline {95.3}F. Sherwood Rowland}{392}{section.95.3}%
+\contentsline {chapter}{\numberline {96}1996:Robert F. Curl Jr. and Sir Harold Kroto and Richard E. Smalley}{395}{chapter.96}%
+\contentsline {section}{\numberline {96.1}Robert F. Curl Jr.}{395}{section.96.1}%
+\contentsline {section}{\numberline {96.2}Sir Harold Kroto}{397}{section.96.2}%
+\contentsline {section}{\numberline {96.3}Richard E. Smalley}{398}{section.96.3}%
+\contentsline {chapter}{\numberline {97}1997:Paul D. Boyer and John E. Walker and Jens C. Skou}{401}{chapter.97}%
+\contentsline {section}{\numberline {97.1}Paul D. Boyer}{401}{section.97.1}%
+\contentsline {section}{\numberline {97.2}John E. Walker}{403}{section.97.2}%
+\contentsline {section}{\numberline {97.3}Jens C. Skou}{404}{section.97.3}%
+\contentsline {chapter}{\numberline {98}1998:Walter Kohn and John Pople}{407}{chapter.98}%
+\contentsline {section}{\numberline {98.1}Walter Kohn}{407}{section.98.1}%
+\contentsline {section}{\numberline {98.2}John Pople}{409}{section.98.2}%
+\contentsline {chapter}{\numberline {99}1999:Ahmed Zewail}{411}{chapter.99}%
+\contentsline {section}{\numberline {99.1}Ahmed Zewail}{411}{section.99.1}%
+\contentsline {chapter}{\numberline {100}2000:Alan Heeger and Alan MacDiarmid and Hideki Shirakawa}{415}{chapter.100}%
+\contentsline {section}{\numberline {100.1}Alan Heeger}{415}{section.100.1}%
+\contentsline {section}{\numberline {100.2}Alan MacDiarmid}{417}{section.100.2}%
+\contentsline {section}{\numberline {100.3}Hideki Shirakawa}{418}{section.100.3}%
+\contentsline {chapter}{\numberline {101}2001:William Knowles and Ryoji Noyori and K. Barry Sharpless}{421}{chapter.101}%
+\contentsline {section}{\numberline {101.1}William Knowles}{421}{section.101.1}%
+\contentsline {section}{\numberline {101.2}Ryoji Noyori}{423}{section.101.2}%
+\contentsline {section}{\numberline {101.3}K. Barry Sharpless}{424}{section.101.3}%
+\contentsline {chapter}{\numberline {102}2002:John B. Fenn and Koichi Tanaka and Kurt Wüthrich}{427}{chapter.102}%
+\contentsline {section}{\numberline {102.1}John B. Fenn}{427}{section.102.1}%
+\contentsline {section}{\numberline {102.2}Koichi Tanaka}{429}{section.102.2}%
+\contentsline {section}{\numberline {102.3}Kurt Wüthrich}{430}{section.102.3}%
+\contentsline {chapter}{\numberline {103}2003:Peter Agre and Roderick MacKinnon}{433}{chapter.103}%
+\contentsline {section}{\numberline {103.1}Peter Agre}{433}{section.103.1}%
+\contentsline {section}{\numberline {103.2}Roderick MacKinnon}{435}{section.103.2}%
+\contentsline {chapter}{\numberline {104}2004:Aaron Ciechanover and Avram Hershko and Irwin Rose}{437}{chapter.104}%
+\contentsline {section}{\numberline {104.1}Aaron Ciechanover}{437}{section.104.1}%
+\contentsline {section}{\numberline {104.2}Avram Hershko}{439}{section.104.2}%
+\contentsline {section}{\numberline {104.3}Irwin Rose}{440}{section.104.3}%
+\contentsline {chapter}{\numberline {105}2005:Yves Chauvin and Robert H. Grubbs and Richard R. Schrock}{443}{chapter.105}%
+\contentsline {section}{\numberline {105.1}Yves Chauvin}{443}{section.105.1}%
+\contentsline {section}{\numberline {105.2}Robert H. Grubbs}{445}{section.105.2}%
+\contentsline {section}{\numberline {105.3}Richard R. Schrock}{446}{section.105.3}%
+\contentsline {chapter}{\numberline {106}2006:Roger D. Kornberg}{449}{chapter.106}%
+\contentsline {section}{\numberline {106.1}Roger D. Kornberg}{449}{section.106.1}%
+\contentsline {chapter}{\numberline {107}2007:Gerhard Ertl}{453}{chapter.107}%
+\contentsline {section}{\numberline {107.1}Gerhard Ertl}{453}{section.107.1}%
+\contentsline {chapter}{\numberline {108}2008:Osamu Shimomura and Martin Chalfie and Roger Y. Tsien}{457}{chapter.108}%
+\contentsline {section}{\numberline {108.1}Osamu Shimomura}{457}{section.108.1}%
+\contentsline {section}{\numberline {108.2}Martin Chalfie}{459}{section.108.2}%
+\contentsline {section}{\numberline {108.3}Roger Y. Tsien}{460}{section.108.3}%
+\contentsline {chapter}{\numberline {109}2009:Venkatraman Ramakrishnan and Thomas A. Steitz and Ada E. Yonath}{463}{chapter.109}%
+\contentsline {section}{\numberline {109.1}Venkatraman Ramakrishnan}{463}{section.109.1}%
+\contentsline {section}{\numberline {109.2}Thomas A. Steitz}{465}{section.109.2}%
+\contentsline {section}{\numberline {109.3}Ada E. Yonath}{466}{section.109.3}%
+\contentsline {chapter}{\numberline {110}2010:Richard F. Heck and Ei-ichi Negishi and Akira Suzuki}{469}{chapter.110}%
+\contentsline {section}{\numberline {110.1}Richard F. Heck}{469}{section.110.1}%
+\contentsline {section}{\numberline {110.2}Ei-ichi Negishi}{471}{section.110.2}%
+\contentsline {section}{\numberline {110.3}Akira Suzuki}{472}{section.110.3}%
+\contentsline {chapter}{\numberline {111}2011:Dan Shechtman}{475}{chapter.111}%
+\contentsline {section}{\numberline {111.1}Dan Shechtman}{475}{section.111.1}%
+\contentsline {chapter}{\numberline {112}2012:Robert J. Lefkowitz and Brian Kobilka}{479}{chapter.112}%
+\contentsline {section}{\numberline {112.1}Robert J. Lefkowitz}{479}{section.112.1}%
+\contentsline {section}{\numberline {112.2}Brian Kobilka}{481}{section.112.2}%
+\contentsline {chapter}{\numberline {113}2013:Martin Karplus and Michael Levitt and Arieh Warshel}{483}{chapter.113}%
+\contentsline {section}{\numberline {113.1}Martin Karplus}{483}{section.113.1}%
+\contentsline {section}{\numberline {113.2}Michael Levitt}{485}{section.113.2}%
+\contentsline {section}{\numberline {113.3}Arieh Warshel}{486}{section.113.3}%
+\contentsline {chapter}{\numberline {114}2014:Eric Betzig and Stefan W. Hell and William E. Moerner}{489}{chapter.114}%
+\contentsline {section}{\numberline {114.1}Eric Betzig}{489}{section.114.1}%
+\contentsline {section}{\numberline {114.2}Stefan W. Hell}{491}{section.114.2}%
+\contentsline {section}{\numberline {114.3}William E. Moerner}{492}{section.114.3}%
+\contentsline {chapter}{\numberline {115}2015:Tomas Lindahl and Paul Modrich and Aziz Sancar}{495}{chapter.115}%
+\contentsline {section}{\numberline {115.1}Tomas Lindahl}{495}{section.115.1}%
+\contentsline {section}{\numberline {115.2}Paul Modrich}{497}{section.115.2}%
+\contentsline {section}{\numberline {115.3}Aziz Sancar}{498}{section.115.3}%
+\contentsline {chapter}{\numberline {116}2016:Jean-Pierre Sauvage and Sir J. Fraser Stoddart and Bernard L. Feringa}{501}{chapter.116}%
+\contentsline {section}{\numberline {116.1}Jean-Pierre Sauvage}{501}{section.116.1}%
+\contentsline {section}{\numberline {116.2}Sir J. Fraser Stoddart}{503}{section.116.2}%
+\contentsline {section}{\numberline {116.3}Bernard L. Feringa}{504}{section.116.3}%
+\contentsline {chapter}{\numberline {117}2017:Jacques Dubochet and Joachim Frank and Richard Henderson}{507}{chapter.117}%
+\contentsline {section}{\numberline {117.1}Jacques Dubochet}{507}{section.117.1}%
+\contentsline {section}{\numberline {117.2}Joachim Frank}{509}{section.117.2}%
+\contentsline {section}{\numberline {117.3}Richard Henderson}{510}{section.117.3}%
+\contentsline {chapter}{\numberline {118}2018:Frances H. Arnold and George P. Smith and Sir Gregory P. Winter}{513}{chapter.118}%
+\contentsline {section}{\numberline {118.1}Frances H. Arnold}{513}{section.118.1}%
+\contentsline {section}{\numberline {118.2}George P. Smith}{515}{section.118.2}%
+\contentsline {section}{\numberline {118.3}Sir Gregory P. Winter}{516}{section.118.3}%
+\contentsline {chapter}{\numberline {119}2019:John B. Goodenough and M. Stanley Whittingham and Akira Yoshino}{519}{chapter.119}%
+\contentsline {section}{\numberline {119.1}John B. Goodenough}{519}{section.119.1}%
+\contentsline {section}{\numberline {119.2}M. Stanley Whittingham}{521}{section.119.2}%
+\contentsline {section}{\numberline {119.3}Akira Yoshino}{522}{section.119.3}%
+\contentsline {chapter}{\numberline {120}2020:Emmanuelle Charpentier and Jennifer A. Doudna}{525}{chapter.120}%
+\contentsline {section}{\numberline {120.1}Emmanuelle Charpentier}{525}{section.120.1}%
+\contentsline {section}{\numberline {120.2}Jennifer A. Doudna}{527}{section.120.2}%
+\contentsline {chapter}{\numberline {121}2021:Benjamin List and David W.C. MacMillan}{529}{chapter.121}%
+\contentsline {section}{\numberline {121.1}Benjamin List}{529}{section.121.1}%
+\contentsline {section}{\numberline {121.2}David W.C. MacMillan}{531}{section.121.2}%
+\contentsline {chapter}{\numberline {122}2022:Carolyn Bertozzi and Morten Meldal and K. Barry Sharpless}{533}{chapter.122}%
+\contentsline {section}{\numberline {122.1}Carolyn Bertozzi}{533}{section.122.1}%
+\contentsline {section}{\numberline {122.2}Morten Meldal}{535}{section.122.2}%
+\contentsline {section}{\numberline {122.3}K. Barry Sharpless}{536}{section.122.3}%
+\contentsline {chapter}{\numberline {123}2023:Moungi Bawendi and Louis Brus and Aleksey Yekimov}{539}{chapter.123}%
+\contentsline {section}{\numberline {123.1}Moungi Bawendi}{539}{section.123.1}%
+\contentsline {section}{\numberline {123.2}Louis Brus}{541}{section.123.2}%
+\contentsline {section}{\numberline {123.3}Aleksey Yekimov}{542}{section.123.3}%
+\contentsline {chapter}{\numberline {124}2024:David Baker and Demis Hassabis and John Jumper}{545}{chapter.124}%
+\contentsline {section}{\numberline {124.1}David Baker}{545}{section.124.1}%
+\contentsline {section}{\numberline {124.2}Demis Hassabis}{547}{section.124.2}%
+\contentsline {section}{\numberline {124.3}John Jumper}{548}{section.124.3}%
+\contentsline {chapter}{\numberline {125}2025:Susumu Kitagawa and Richard Robson and Omar M. Yaghi}{551}{chapter.125}%
+\contentsline {section}{\numberline {125.1}Susumu Kitagawa}{551}{section.125.1}%
+\contentsline {section}{\numberline {125.2}Richard Robson}{553}{section.125.2}%
+\contentsline {section}{\numberline {125.3}Omar M. Yaghi}{554}{section.125.3}%
